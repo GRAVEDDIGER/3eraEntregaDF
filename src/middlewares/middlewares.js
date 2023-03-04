@@ -34,8 +34,7 @@ export const middleWareLoader =(express,app)=>{
     app.use(flash())
     app.use(morgan(morganWinston))
     app.use("/login",login)
-    handleConfig(app)
     //app.use("/",routes)
-    handleConfig()   
+    handleConfig(app)   
 return passportObject
 }

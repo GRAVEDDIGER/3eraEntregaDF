@@ -8,4 +8,3 @@ const app = express();
 app.listen(PORT,()=> logger.info.info({level:"info",message:`Server Up in port ${PORT}`}))
 
 middleWareLoader(express,app)
-handleConfig(app)

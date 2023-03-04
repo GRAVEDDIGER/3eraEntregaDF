@@ -124,3 +124,57 @@
   timestamp: '2023-03-04T21:56:01.162Z',
   label: 'e-Commerce Backend Debuger'
 }
+{
+  level: 'info',
+  message: 'Server Up in port 8080',
+  timestamp: '2023-03-04T22:23:56.806Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Mongo Connected',
+  timestamp: '2023-03-04T22:23:57.539Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /login 500 1671 - 12.141 ms',
+  timestamp: '2023-03-04T22:24:03.868Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 8080',
+  timestamp: '2023-03-04T22:24:25.986Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Mongo Connected',
+  timestamp: '2023-03-04T22:24:26.686Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /login 500 1661 - 8.731 ms',
+  timestamp: '2023-03-04T22:24:49.849Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 8080',
+  timestamp: '2023-03-04T22:25:27.969Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Mongo Connected',
+  timestamp: '2023-03-04T22:25:28.998Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /login 500 1659 - 7.841 ms',
+  timestamp: '2023-03-04T22:25:37.276Z',
+  label: 'e-Commerce Backend Debuger'
+}
