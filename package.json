@@ -1,0 +1,35 @@
+{
+  "name": "tercera-entrega-desafio-final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/app.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "connect-flash": "^0.1.1",
+    "connect-mongo": "^4.6.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.1",
+    "express-session": "^1.17.3",
+    "mongoose": "^7.0.0",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "passport": "^0.6.0",
+    "passport-fast-config": "^1.0.7-b",
+    "winston": "^3.8.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.35.0",
+    "standard": "^17.0.0"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/standart/eslintrc.json"
+  }
+}

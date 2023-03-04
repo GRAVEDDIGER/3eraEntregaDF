@@ -1,0 +1,126 @@
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Server Up in port 8080',
+  timestamp: '2023-03-04T19:45:43.327Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Server Up in port 8080',
+  timestamp: '2023-03-04T19:49:15.876Z',
+  label: '\x1B[32me-Commerce Backend Debuger\x1B[39m'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Server Up in port 8080',
+  timestamp: '2023-03-04T20:38:01.736Z',
+  label: '\x1B[32me-Commerce Backend Debuger\x1B[39m'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Server Up in port 8080',
+  timestamp: '2023-03-04T20:38:11.662Z',
+  label: '\x1B[32me-Commerce Backend Debuger\x1B[39m'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Server Up in port 8080',
+  timestamp: '2023-03-04T20:39:27.157Z',
+  label: '\x1B[32me-Commerce Backend Debuger\x1B[39m'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Server Up in port 8080',
+  timestamp: '2023-03-04T21:42:29.634Z',
+  label: '\x1B[32me-Commerce Backend Debuger\x1B[39m'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Server Up in port 8080',
+  timestamp: '2023-03-04T21:42:46.075Z',
+  label: '\x1B[32me-Commerce Backend Debuger\x1B[39m'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Server Up in port 8080',
+  timestamp: '2023-03-04T21:43:50.367Z',
+  label: '\x1B[32me-Commerce Backend Debuger\x1B[39m'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Server Up in port 8080',
+  timestamp: '2023-03-04T21:45:05.832Z',
+  label: '\x1B[32me-Commerce Backend Debuger\x1B[39m'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Server Up in port 8080',
+  timestamp: '2023-03-04T21:46:22.500Z',
+  label: '\x1B[32me-Commerce Backend Debuger\x1B[39m'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Server Up in port 8080',
+  timestamp: '2023-03-04T21:46:40.849Z',
+  label: '\x1B[32me-Commerce Backend Debuger\x1B[39m'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Server Up in port 8080',
+  timestamp: '2023-03-04T21:47:12.674Z',
+  label: '\x1B[32me-Commerce Backend Debuger\x1B[39m'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Server Up in port 8080',
+  timestamp: '2023-03-04T21:48:06.527Z',
+  label: '\x1B[32me-Commerce Backend Debuger\x1B[39m'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Server Up in port 8080',
+  timestamp: '2023-03-04T21:48:45.758Z',
+  label: '\x1B[32me-Commerce Backend Debuger\x1B[39m'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Server Up in port 8080',
+  timestamp: '2023-03-04T21:49:23.210Z',
+  label: '\x1B[32me-Commerce Backend Debuger\x1B[39m'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 8080',
+  timestamp: '2023-03-04T21:50:14.759Z',
+  label: '\x1B[32me-Commerce Backend Debuger\x1B[39m'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 8080',
+  timestamp: '2023-03-04T21:50:27.053Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 8080',
+  timestamp: '2023-03-04T21:51:47.314Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 8080',
+  timestamp: '2023-03-04T21:52:42.333Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 8080',
+  timestamp: '2023-03-04T21:55:52.688Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 8080',
+  timestamp: '2023-03-04T21:56:01.162Z',
+  label: 'e-Commerce Backend Debuger'
+}
