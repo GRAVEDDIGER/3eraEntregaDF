@@ -1,3 +1,4 @@
+/*
 * {
   box-sizing: border-box;
   padding: 0;
@@ -173,4 +174,127 @@ img {
 }
 .sysInfo > article > div {
   padding: 1rem 0;
+}
+*/
+/* Fuente y tamaño de letra para todo el formulario */
+body {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 16px;
+}
+
+/* Encabezado del formulario */
+.userData h2 {
+  font-size: 36px;
+  margin-top: 0;
+  margin-bottom: 20px;
+  color: #ff2e63;
+  text-shadow: 2px 2px #fcb900;
+}
+
+/* Estilo de los campos de entrada */
+.userData input {
+  display: block;
+  margin: 20px 0;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 20px;
+  color: #ff2e63;
+  background-color: #fff;
+  box-shadow: 2px 2px #fcb900;
+}
+
+/* Estilo del botón */
+.userData button {
+  display: block;
+  margin: 30px 0;
+  padding: 10px;
+  background-color: #ff2e63;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  width: 100%;
+  font-size: 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  text-shadow: 2px 2px #fcb900;
+}
+
+.userData button:hover {
+  background-color: #fcb900;
+}
+
+/* Estilo del mensaje de error */
+.userData .errorMessage {
+  color: #ff2e63;
+  margin: 10px 0;
+  font-size: 16px;
+}
+
+/* Cambiar el color de fondo del formulario */
+.userData {
+  background-color: #f8b195;
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Estilo para el texto de placeholder */
+.userData input::placeholder {
+  color: #ff2e63;
+  opacity: 0.6;
+}
+
+/* Estilo para el foco en el campo de entrada */
+.userData input:focus {
+  outline: none;
+  box-shadow: 2px 2px #fcb900;
+}
+
+/* Estilo para los campos de entrada con valores */
+.userData input:valid {
+  box-shadow: 2px 2px #8e44ad;
+}
+
+/* Estilo para los campos de entrada con errores */
+.userData input:invalid {
+  box-shadow: 2px 2px #c0392b;
+}
+/* Estilo para el header */
+header {
+  background-color: #fcb900;
+  padding: 20px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Estilo para el título del header */
+header h1 {
+  margin: 0;
+  font-size: 36px;
+  color: #fff;
+  text-shadow: 2px 2px #ff2e63;
+}
+
+/* Estilo para el footer */
+footer {
+  background-color: #ff2e63;
+  padding: 10px;
+  text-align: center;
+  color: #fff;
+  font-size: 16px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Estilo para el enlace del footer */
+footer a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+footer a:hover {
+  color: #fcb900;
 }
