@@ -38,6 +38,11 @@ export const middleWareLoader =async(express,app)=>{
     app.use(express.static("./src/public"))
     app.use("/login",routes.login)
     app.use("/register",routes.register)
+    app.use("/home",routes.home)
+    app.use("/logout",routes.logout)
+    app.use("/viewProfile",routes.profile)
+    app.use("/addProduct",routes.addProduct)
+    app.use("/showProducts",routes.showproducts)
     //app.use("/",routes)
     handleConfig(app)   
 return passportObject

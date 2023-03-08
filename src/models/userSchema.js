@@ -10,7 +10,8 @@ const UserSchema = new Schema({
     nombre:{type:String},
     apellido:{type:String},
     edad:{type:Number},
-    alias:{type:String},
+    phone:{type:String},
+    adress:{type:String},
     avatar:{type:String}
   })
 export default UserSchema

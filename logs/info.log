@@ -17031,3 +17031,6440 @@
   timestamp: '2023-03-06T03:07:36.170Z',
   label: 'e-Commerce Backend Debuger'
 }
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T05:27:16.747Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T05:27:16.841Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /login 200 768 - 386.690 ms',
+  timestamp: '2023-03-07T05:27:41.782Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 5.550 ms',
+  timestamp: '2023-03-07T05:27:41.822Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /favicon.ico 404 150 - 5.754 ms',
+  timestamp: '2023-03-07T05:27:41.947Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /login 302 54 - 270.658 ms',
+  timestamp: '2023-03-07T05:27:46.921Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /home 404 143 - 6.116 ms',
+  timestamp: '2023-03-07T05:27:47.256Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T05:28:32.524Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T05:28:32.672Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T05:29:37.789Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T05:29:37.888Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T05:36:41.617Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T05:36:41.701Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /home 404 143 - 13.345 ms',
+  timestamp: '2023-03-07T05:36:47.223Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T05:37:26.907Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T05:37:27.024Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T05:37:32.267Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T05:37:32.362Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T05:37:46.452Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T05:37:46.564Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T05:38:08.247Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T05:38:08.371Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /home 200 640 - 153.028 ms',
+  timestamp: '2023-03-07T05:38:10.491Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 200 5727 - 21.810 ms',
+  timestamp: '2023-03-07T05:38:10.551Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T05:39:01.880Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T05:39:01.966Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T05:40:01.615Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T05:40:01.740Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T05:40:15.235Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T05:40:15.337Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T05:40:43.052Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T05:40:43.142Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T05:40:52.964Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T05:40:56.757Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T05:40:56.863Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /logout 500 1430 - 12.025 ms',
+  timestamp: '2023-03-07T05:41:02.413Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T05:43:03.232Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T05:43:03.345Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T05:43:20.991Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T05:43:21.067Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /logout 404 145 - 12.424 ms',
+  timestamp: '2023-03-07T05:43:30.328Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T05:43:59.543Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T05:43:59.650Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /logout 302 46 - 111.696 ms',
+  timestamp: '2023-03-07T05:44:04.927Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET / 404 139 - 5.620 ms',
+  timestamp: '2023-03-07T05:44:05.299Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T05:44:34.893Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T05:44:34.993Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /home 304  - 156.689 ms',
+  timestamp: '2023-03-07T05:44:47.358Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 3.459 ms',
+  timestamp: '2023-03-07T05:44:47.489Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /logout 302 56 - 8.432 ms',
+  timestamp: '2023-03-07T05:45:02.147Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /login 200 768 - 105.311 ms',
+  timestamp: '2023-03-07T05:45:02.402Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 2.163 ms',
+  timestamp: '2023-03-07T05:45:02.476Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /home 304  - 10.276 ms',
+  timestamp: '2023-03-07T05:45:10.294Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 0.932 ms',
+  timestamp: '2023-03-07T05:45:10.367Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T05:47:09.976Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T05:47:10.070Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T05:48:01.063Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T05:48:01.170Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T05:48:12.655Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T05:48:12.738Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T05:49:15.675Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T05:49:15.777Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /home 304  - 68.599 ms',
+  timestamp: '2023-03-07T05:49:28.773Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 3.542 ms',
+  timestamp: '2023-03-07T05:49:28.845Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 2.456 ms',
+  timestamp: '2023-03-07T05:49:33.972Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /home 304  - 18.594 ms',
+  timestamp: '2023-03-07T05:49:51.516Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 2.178 ms',
+  timestamp: '2023-03-07T05:49:51.584Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /logout 302 56 - 9.875 ms',
+  timestamp: '2023-03-07T05:49:59.285Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /login 304  - 20.504 ms',
+  timestamp: '2023-03-07T05:49:59.559Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 1.232 ms',
+  timestamp: '2023-03-07T05:49:59.637Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /login   -  ms',
+  timestamp: '2023-03-07T05:49:59.692Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /home 304  - 12.211 ms',
+  timestamp: '2023-03-07T05:50:05.604Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 1.075 ms',
+  timestamp: '2023-03-07T05:50:05.681Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T05:50:59.317Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T05:50:59.412Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /home 304  - 69.988 ms',
+  timestamp: '2023-03-07T05:51:04.175Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 3.971 ms',
+  timestamp: '2023-03-07T05:51:04.279Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T05:51:32.321Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T05:51:32.414Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /home 500 1432 - 9.204 ms',
+  timestamp: '2023-03-07T05:51:36.424Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T05:51:57.704Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T05:51:57.859Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /home 302 56 - 16.419 ms',
+  timestamp: '2023-03-07T05:52:01.264Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /login 304  - 73.278 ms',
+  timestamp: '2023-03-07T05:52:01.386Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 4.612 ms',
+  timestamp: '2023-03-07T05:52:01.554Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /home 302 56 - 4.196 ms',
+  timestamp: '2023-03-07T05:52:08.979Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /login 304  - 17.174 ms',
+  timestamp: '2023-03-07T05:52:09.046Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 1.786 ms',
+  timestamp: '2023-03-07T05:52:09.126Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /login 302 54 - 269.011 ms',
+  timestamp: '2023-03-07T05:52:14.229Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /home 200 640 - 12.517 ms',
+  timestamp: '2023-03-07T05:52:14.572Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 3.643 ms',
+  timestamp: '2023-03-07T05:52:14.705Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /logout 302 56 - 2.750 ms',
+  timestamp: '2023-03-07T05:52:16.594Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /login 200 768 - 13.470 ms',
+  timestamp: '2023-03-07T05:52:16.833Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 0.848 ms',
+  timestamp: '2023-03-07T05:52:16.919Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /home 302 56 - 1.628 ms',
+  timestamp: '2023-03-07T05:52:21.769Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /login 304  - 14.205 ms',
+  timestamp: '2023-03-07T05:52:21.830Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 1.746 ms',
+  timestamp: '2023-03-07T05:52:21.916Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /login 302 54 - 242.790 ms',
+  timestamp: '2023-03-07T05:52:35.406Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /home 200 640 - 14.044 ms',
+  timestamp: '2023-03-07T05:52:35.518Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 2.808 ms',
+  timestamp: '2023-03-07T05:52:35.642Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T05:53:19.932Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T05:53:20.018Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /home 304  - 73.267 ms',
+  timestamp: '2023-03-07T05:53:20.864Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 3.778 ms',
+  timestamp: '2023-03-07T05:53:21.032Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T06:03:40.254Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T06:06:03.798Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T06:07:09.946Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T06:07:10.039Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /viewProfile 302 56 - 12.543 ms',
+  timestamp: '2023-03-07T06:07:14.644Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /login 200 768 - 63.604 ms',
+  timestamp: '2023-03-07T06:07:14.715Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 200 6137 - 16.085 ms',
+  timestamp: '2023-03-07T06:07:14.780Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /login 302 54 - 285.396 ms',
+  timestamp: '2023-03-07T06:07:21.498Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /home 304  - 23.266 ms',
+  timestamp: '2023-03-07T06:07:21.859Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 2.006 ms',
+  timestamp: '2023-03-07T06:07:22.031Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /viewProfile 200 802 - 28.747 ms',
+  timestamp: '2023-03-07T06:07:24.591Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /1 404 140 - 6.500 ms',
+  timestamp: '2023-03-07T06:07:24.702Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 1.674 ms',
+  timestamp: '2023-03-07T06:07:24.713Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T06:30:46.777Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T06:30:46.830Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /register 200 1153 - 329.278 ms',
+  timestamp: '2023-03-07T06:31:10.478Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 7.505 ms',
+  timestamp: '2023-03-07T06:31:10.517Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T06:32:12.766Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T06:32:12.848Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /register 304  - 36.565 ms',
+  timestamp: '2023-03-07T06:32:13.614Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 4.130 ms',
+  timestamp: '2023-03-07T06:32:13.639Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T06:33:25.472Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T06:33:25.530Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /register 304  - 30.857 ms',
+  timestamp: '2023-03-07T06:33:26.713Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 3.795 ms',
+  timestamp: '2023-03-07T06:33:26.744Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T06:33:46.977Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T06:33:47.049Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /register 304  - 34.577 ms',
+  timestamp: '2023-03-07T06:33:48.810Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 5.315 ms',
+  timestamp: '2023-03-07T06:33:48.838Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /register 302 56 - 414.991 ms',
+  timestamp: '2023-03-07T06:33:57.020Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /login 200 768 - 16.055 ms',
+  timestamp: '2023-03-07T06:33:57.558Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 1.004 ms',
+  timestamp: '2023-03-07T06:33:57.666Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T06:35:28.515Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T06:35:28.595Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T06:35:31.967Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T06:35:32.048Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /register 200 1153 - 59.968 ms',
+  timestamp: '2023-03-07T06:35:38.250Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 4.242 ms',
+  timestamp: '2023-03-07T06:35:38.578Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T06:36:18.809Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T06:36:18.848Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /register 304  - 57.031 ms',
+  timestamp: '2023-03-07T06:36:23.374Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 4.325 ms',
+  timestamp: '2023-03-07T06:36:23.525Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /register 302 56 - 281.632 ms',
+  timestamp: '2023-03-07T06:36:33.134Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /login 304  - 21.335 ms',
+  timestamp: '2023-03-07T06:36:33.478Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 1.141 ms',
+  timestamp: '2023-03-07T06:36:33.624Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /login 302 54 - 179.134 ms',
+  timestamp: '2023-03-07T06:36:39.138Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /home 304  - 9.797 ms',
+  timestamp: '2023-03-07T06:36:39.242Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 1.977 ms',
+  timestamp: '2023-03-07T06:36:39.397Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /viewProfile 200 772 - 19.840 ms',
+  timestamp: '2023-03-07T06:36:41.915Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 1.331 ms',
+  timestamp: '2023-03-07T06:36:42.021Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /viewProfile 304  - 18.610 ms',
+  timestamp: '2023-03-07T06:39:43.585Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 0.663 ms',
+  timestamp: '2023-03-07T06:39:43.727Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /viewProfile 304  - 13.194 ms',
+  timestamp: '2023-03-07T06:39:45.682Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 0.834 ms',
+  timestamp: '2023-03-07T06:39:45.837Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T06:40:18.183Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T06:40:18.254Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /viewProfile 304  - 64.420 ms',
+  timestamp: '2023-03-07T06:40:20.372Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 2.147 ms',
+  timestamp: '2023-03-07T06:40:20.513Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /viewProfile 304  - 25.552 ms',
+  timestamp: '2023-03-07T06:40:36.415Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 1.437 ms',
+  timestamp: '2023-03-07T06:40:36.560Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T06:41:35.117Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T06:41:35.196Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T06:42:25.352Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T06:42:25.436Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /viewProfile 304  - 66.945 ms',
+  timestamp: '2023-03-07T06:42:32.205Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 2.311 ms',
+  timestamp: '2023-03-07T06:42:32.354Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /logout 302 56 - 12.435 ms',
+  timestamp: '2023-03-07T06:42:52.890Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /login 200 768 - 27.782 ms',
+  timestamp: '2023-03-07T06:42:53.083Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 1.516 ms',
+  timestamp: '2023-03-07T06:42:53.158Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /login 302 54 - 275.079 ms',
+  timestamp: '2023-03-07T06:42:58.618Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /home 304  - 14.015 ms',
+  timestamp: '2023-03-07T06:42:58.788Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 1.870 ms',
+  timestamp: '2023-03-07T06:42:58.939Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /viewProfile 200 838 - 19.771 ms',
+  timestamp: '2023-03-07T06:43:00.941Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /src/public/images/1678170992823.jpg 404 174 - 4.365 ms',
+  timestamp: '2023-03-07T06:43:01.004Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 1.212 ms',
+  timestamp: '2023-03-07T06:43:01.045Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /public/images/1678170992823.jpg 404 170 - 1.026 ms',
+  timestamp: '2023-03-07T06:43:28.002Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /images/1678170992823.jpg 200 5987 - 5.661 ms',
+  timestamp: '2023-03-07T06:43:40.051Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T06:44:14.502Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T06:44:14.572Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T06:44:47.931Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T06:44:48.011Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T06:45:18.658Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T06:45:18.738Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /register 200 1153 - 63.277 ms',
+  timestamp: '2023-03-07T06:45:32.231Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 4.108 ms',
+  timestamp: '2023-03-07T06:45:32.577Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /register 302 56 - 811.745 ms',
+  timestamp: '2023-03-07T06:46:05.731Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /login 200 768 - 7.311 ms',
+  timestamp: '2023-03-07T06:46:05.831Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 1.620 ms',
+  timestamp: '2023-03-07T06:46:05.926Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T06:47:42.999Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T06:47:43.058Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T06:48:39.597Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T06:48:39.660Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /register 200 1153 - 74.033 ms',
+  timestamp: '2023-03-07T06:48:56.244Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 4.413 ms',
+  timestamp: '2023-03-07T06:48:56.734Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /register 302 56 - 300.754 ms',
+  timestamp: '2023-03-07T06:49:06.569Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /login 304  - 17.869 ms',
+  timestamp: '2023-03-07T06:49:06.689Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 1.532 ms',
+  timestamp: '2023-03-07T06:49:06.842Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T06:51:34.762Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T06:51:34.841Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T17:50:03.191Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T17:50:03.268Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T17:53:49.713Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T17:53:49.822Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T17:54:19.091Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T17:54:19.185Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T17:55:07.879Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T17:55:08.009Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /register 200 1153 - 348.997 ms',
+  timestamp: '2023-03-07T17:57:01.191Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 7.350 ms',
+  timestamp: '2023-03-07T17:57:01.239Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /register 302 56 - 439.399 ms',
+  timestamp: '2023-03-07T17:57:26.675Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /login 304  - 15.904 ms',
+  timestamp: '2023-03-07T17:57:27.203Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 2.353 ms',
+  timestamp: '2023-03-07T17:57:27.455Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /login 302 54 - 300.136 ms',
+  timestamp: '2023-03-07T17:57:34.518Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /home 304  - 12.476 ms',
+  timestamp: '2023-03-07T17:57:34.651Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 1.570 ms',
+  timestamp: '2023-03-07T17:57:34.858Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /viewProfile 200 798 - 23.087 ms',
+  timestamp: '2023-03-07T17:57:38.486Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 2.501 ms',
+  timestamp: '2023-03-07T17:57:38.658Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T18:00:02.257Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T18:00:02.328Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /register 200 1153 - 72.798 ms',
+  timestamp: '2023-03-07T18:00:25.473Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 5.555 ms',
+  timestamp: '2023-03-07T18:00:26.207Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /register 302 56 - 478.779 ms',
+  timestamp: '2023-03-07T18:00:48.549Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /login 200 768 - 15.942 ms',
+  timestamp: '2023-03-07T18:00:48.690Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 1.196 ms',
+  timestamp: '2023-03-07T18:00:48.934Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /login 302 54 - 342.719 ms',
+  timestamp: '2023-03-07T18:01:12.048Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /home 304  - 11.870 ms',
+  timestamp: '2023-03-07T18:01:12.180Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 1.778 ms',
+  timestamp: '2023-03-07T18:01:12.400Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /viewProfile 200 973 - 18.415 ms',
+  timestamp: '2023-03-07T18:01:16.436Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 1.568 ms',
+  timestamp: '2023-03-07T18:01:16.564Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T18:02:21.931Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T18:02:22.032Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /login 200 768 - 56.298 ms',
+  timestamp: '2023-03-07T18:02:33.203Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 4.777 ms',
+  timestamp: '2023-03-07T18:02:33.675Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T18:03:02.773Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T18:03:02.862Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T18:03:34.006Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T18:03:34.101Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /register 200 1153 - 53.589 ms',
+  timestamp: '2023-03-07T18:03:37.094Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 6.743 ms',
+  timestamp: '2023-03-07T18:03:37.635Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /register 302 56 - 1702.968 ms',
+  timestamp: '2023-03-07T18:03:50.737Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /login 304  - 24.436 ms',
+  timestamp: '2023-03-07T18:03:50.876Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 2.180 ms',
+  timestamp: '2023-03-07T18:03:51.188Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /login 302 54 - 312.204 ms',
+  timestamp: '2023-03-07T18:03:56.862Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /home 304  - 12.977 ms',
+  timestamp: '2023-03-07T18:03:57.003Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 2.659 ms',
+  timestamp: '2023-03-07T18:03:57.224Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /viewProfile 200 801 - 30.746 ms',
+  timestamp: '2023-03-07T18:03:58.987Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /images/1678212230192.jpg 200 138709 - 6.259 ms',
+  timestamp: '2023-03-07T18:03:59.218Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 1.135 ms',
+  timestamp: '2023-03-07T18:03:59.572Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /register 200 1245 - 14.631 ms',
+  timestamp: '2023-03-07T18:08:39.003Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 1.812 ms',
+  timestamp: '2023-03-07T18:08:39.170Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T18:10:25.932Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T18:10:26.020Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /register 302 56 - 1038.358 ms',
+  timestamp: '2023-03-07T18:11:04.742Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /login 200 768 - 384.799 ms',
+  timestamp: '2023-03-07T18:11:05.846Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 6.522 ms',
+  timestamp: '2023-03-07T18:11:06.039Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /login 302 54 - 392.642 ms',
+  timestamp: '2023-03-07T18:11:12.319Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /home 304  - 20.901 ms',
+  timestamp: '2023-03-07T18:11:12.462Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 1.727 ms',
+  timestamp: '2023-03-07T18:11:12.714Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /viewProfile 200 822 - 24.772 ms',
+  timestamp: '2023-03-07T18:11:15.051Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 2.053 ms',
+  timestamp: '2023-03-07T18:11:15.250Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /images/1678212664103.jpg 200 132965 - 4.038 ms',
+  timestamp: '2023-03-07T18:11:15.633Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /viewProfile 200 939 - 22.427 ms',
+  timestamp: '2023-03-07T18:12:07.049Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /images/1678212664103.jpg 304  - 1.359 ms',
+  timestamp: '2023-03-07T18:12:07.216Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 3.050 ms',
+  timestamp: '2023-03-07T18:12:07.243Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /register 200 1245 - 20.883 ms',
+  timestamp: '2023-03-07T18:18:42.754Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 1.115 ms',
+  timestamp: '2023-03-07T18:18:43.205Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /register 302 56 - 376.121 ms',
+  timestamp: '2023-03-07T18:19:17.774Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /login 200 768 - 10.978 ms',
+  timestamp: '2023-03-07T18:19:17.961Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 3.853 ms',
+  timestamp: '2023-03-07T18:19:18.199Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /login 302 54 - 346.274 ms',
+  timestamp: '2023-03-07T18:19:33.911Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /home 304  - 12.108 ms',
+  timestamp: '2023-03-07T18:19:34.109Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 1.863 ms',
+  timestamp: '2023-03-07T18:19:34.349Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /viewProfile 200 929 - 18.367 ms',
+  timestamp: '2023-03-07T18:19:36.514Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 2.931 ms',
+  timestamp: '2023-03-07T18:19:36.662Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /images/1678213157334.jpg 200 2793 - 2.273 ms',
+  timestamp: '2023-03-07T18:19:37.584Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T18:21:00.925Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T18:21:01.013Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T18:25:06.836Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T18:25:06.923Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T18:25:18.410Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T18:25:18.506Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /register 200 1241 - 65.561 ms',
+  timestamp: '2023-03-07T18:25:27.341Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 5.612 ms',
+  timestamp: '2023-03-07T18:25:27.847Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /register 302 56 - 463.760 ms',
+  timestamp: '2023-03-07T18:26:01.439Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /login 200 768 - 29.569 ms',
+  timestamp: '2023-03-07T18:26:01.612Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 1.843 ms',
+  timestamp: '2023-03-07T18:26:01.877Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /login 302 54 - 1139.855 ms',
+  timestamp: '2023-03-07T20:23:48.659Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /home 304  - 144.396 ms',
+  timestamp: '2023-03-07T20:23:49.268Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 1.303 ms',
+  timestamp: '2023-03-07T20:23:49.474Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T20:45:51.366Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T20:45:51.508Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T20:46:00.782Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T20:46:00.866Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T20:48:15.813Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T20:48:15.897Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T20:49:13.427Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T20:49:13.507Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T20:53:21.090Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T20:53:21.174Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T20:53:34.850Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T20:53:34.920Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T21:33:28.777Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T21:33:28.874Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T21:34:50.031Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T21:34:50.152Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T21:35:47.293Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T21:35:47.420Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T21:36:18.700Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T21:36:18.806Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T21:36:31.753Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T21:36:31.857Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T21:42:55.447Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T21:42:55.688Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T21:44:40.520Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T21:44:40.637Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T21:49:32.070Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T21:49:32.152Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T21:50:11.949Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T21:50:12.064Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T21:50:43.407Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T21:50:43.547Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T21:51:14.810Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T21:51:14.899Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T21:57:24.226Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T21:57:24.319Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:03:26.166Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:03:26.250Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:06:33.618Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:06:33.675Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:08:23.795Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:08:23.847Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:10:03.324Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:10:03.382Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:13:45.665Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:13:45.740Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:14:20.447Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:14:20.512Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:21:22.502Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:21:22.561Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:25:47.936Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:25:48.021Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:26:47.347Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:26:47.408Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:28:39.862Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:28:39.921Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:32:22.783Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:32:22.864Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:32:28.861Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:32:28.942Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /home 302 56 - 7.621 ms',
+  timestamp: '2023-03-07T22:32:35.668Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /login 200 768 - 119.820 ms',
+  timestamp: '2023-03-07T22:32:35.792Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 200 7084 - 7.087 ms',
+  timestamp: '2023-03-07T22:32:35.841Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /login 302 54 - 272.503 ms',
+  timestamp: '2023-03-07T22:32:45.335Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /home 200 689 - 21.960 ms',
+  timestamp: '2023-03-07T22:32:45.763Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 1.873 ms',
+  timestamp: '2023-03-07T22:32:45.937Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /addProduct 200 1221 - 15.364 ms',
+  timestamp: '2023-03-07T22:32:49.832Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 2.274 ms',
+  timestamp: '2023-03-07T22:32:49.975Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:34:58.026Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:34:58.075Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:35:09.599Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:35:09.670Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T22:40:52.765Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:40:53.553Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:40:53.628Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /procesar-producto 404 157 - 8.003 ms',
+  timestamp: '2023-03-07T22:41:25.623Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T22:41:49.802Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:41:50.424Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:41:50.482Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /addproduct 200 1214 - 54.603 ms',
+  timestamp: '2023-03-07T22:42:01.908Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 3.773 ms',
+  timestamp: '2023-03-07T22:42:02.338Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T22:42:40.333Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:42:41.179Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:42:41.239Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /addProduct 200 1214 - 30.059 ms',
+  timestamp: '2023-03-07T22:42:45.482Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 4.697 ms',
+  timestamp: '2023-03-07T22:42:45.509Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T22:43:12.386Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:43:13.124Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:43:13.171Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T22:43:19.517Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:43:20.199Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:43:20.253Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T22:43:25.874Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T22:43:27.162Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:43:27.860Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:43:27.933Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /addProduct 304  - 29.990 ms',
+  timestamp: '2023-03-07T22:43:34.800Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 5.764 ms',
+  timestamp: '2023-03-07T22:43:34.823Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T22:45:09.065Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:45:09.855Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:45:09.931Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T22:45:18.816Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:45:19.546Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:45:19.620Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /addProduct 304  - 33.251 ms',
+  timestamp: '2023-03-07T22:45:23.660Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 4.759 ms',
+  timestamp: '2023-03-07T22:45:23.686Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /addProduct 200 88 - 11.814 ms',
+  timestamp: '2023-03-07T22:45:29.134Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T22:46:24.282Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:46:25.191Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:46:25.231Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T22:48:53.807Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:48:54.650Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:48:54.701Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /addProduct 200 1214 - 68.354 ms',
+  timestamp: '2023-03-07T22:48:59.425Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 5.192 ms',
+  timestamp: '2023-03-07T22:48:59.457Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /addProduct 200 88 - 32.312 ms',
+  timestamp: '2023-03-07T22:49:03.686Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T22:49:57.856Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:49:58.725Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:49:58.801Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /addProduct 200 1214 - 67.255 ms',
+  timestamp: '2023-03-07T22:50:01.027Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 4.296 ms',
+  timestamp: '2023-03-07T22:50:01.058Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /addProduct 200 86 - 28.068 ms',
+  timestamp: '2023-03-07T22:50:06.230Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T22:51:24.174Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:51:25.038Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:51:25.079Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /addProduct 200 1214 - 66.375 ms',
+  timestamp: '2023-03-07T22:51:28.563Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 3.463 ms',
+  timestamp: '2023-03-07T22:51:28.588Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /addProduct 200 86 - 12.651 ms',
+  timestamp: '2023-03-07T22:51:38.932Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T22:53:42.006Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:53:42.894Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:53:42.969Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /addProduct 200 1214 - 32.483 ms',
+  timestamp: '2023-03-07T22:53:47.710Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 4.794 ms',
+  timestamp: '2023-03-07T22:53:47.739Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /addProduct 200 86 - 15.658 ms',
+  timestamp: '2023-03-07T22:53:52.221Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T22:54:32.644Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:54:33.314Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:54:33.390Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /addProduct 200 1214 - 31.957 ms',
+  timestamp: '2023-03-07T22:54:37.599Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 3.506 ms',
+  timestamp: '2023-03-07T22:54:37.621Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T22:55:12.505Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:55:13.204Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:55:13.237Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T22:55:46.820Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:55:47.579Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:55:47.615Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T22:56:07.731Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:56:08.412Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:56:08.490Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T22:56:15.074Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:56:15.837Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:56:15.869Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T22:56:28.218Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T22:56:29.792Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:56:30.480Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:56:30.524Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /addProduct 200 86 - 36.178 ms',
+  timestamp: '2023-03-07T22:56:35.117Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:58:11.097Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:58:11.173Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:58:25.180Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:58:25.260Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T22:58:55.422Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T22:58:55.497Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:00:42.322Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:00:42.400Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /addProduct 200 1214 - 64.014 ms',
+  timestamp: '2023-03-07T23:00:44.485Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:00:45.875Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:01:41.359Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:01:41.434Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /addProduct 304  - 31.282 ms',
+  timestamp: '2023-03-07T23:01:45.202Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 4.091 ms',
+  timestamp: '2023-03-07T23:01:45.233Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:01:50.881Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:02:05.773Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:02:05.855Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /addProduct 304  - 29.800 ms',
+  timestamp: '2023-03-07T23:02:13.207Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 6.711 ms',
+  timestamp: '2023-03-07T23:02:13.237Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:02:18.095Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /addProduct 200 86 - 40.310 ms',
+  timestamp: '2023-03-07T23:02:18.138Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:03:29.867Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:03:29.946Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:04:11.612Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:04:11.662Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /addProduct 200 1214 - 40.560 ms',
+  timestamp: '2023-03-07T23:04:15.457Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 3.598 ms',
+  timestamp: '2023-03-07T23:04:15.489Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:04:19.615Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /addProduct 200 86 - 22.324 ms',
+  timestamp: '2023-03-07T23:04:19.642Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:07:20.364Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:07:20.439Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /addProduct 200 1214 - 56.618 ms',
+  timestamp: '2023-03-07T23:07:26.863Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:07:28.092Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:07:59.352Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:07:59.430Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /addProduct 200 1214 - 30.964 ms',
+  timestamp: '2023-03-07T23:08:04.051Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 5.552 ms',
+  timestamp: '2023-03-07T23:08:04.080Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:08:10.803Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:09:13.032Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:09:13.115Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:09:41.465Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:09:41.546Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /addProduct 200 1214 - 32.198 ms',
+  timestamp: '2023-03-07T23:09:50.027Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:09:51.786Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:11:37.158Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:11:37.233Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:13:24.807Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:13:24.885Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /addProduct 200 1214 - 43.388 ms',
+  timestamp: '2023-03-07T23:13:33.128Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:13:35.407Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /addProduct 200 1124 - 63.875 ms',
+  timestamp: '2023-03-07T23:13:35.469Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:14:55.398Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:14:55.445Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /addProduct 200 1214 - 37.862 ms',
+  timestamp: '2023-03-07T23:14:58.002Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:14:59.579Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /addProduct 200 1124 - 52.589 ms',
+  timestamp: '2023-03-07T23:14:59.631Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:16:18.362Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:16:18.412Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /addProduct 200 1214 - 30.007 ms',
+  timestamp: '2023-03-07T23:16:23.187Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:16:25.132Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /addProduct 200 1124 - 56.841 ms',
+  timestamp: '2023-03-07T23:16:25.189Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:17:37.819Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:17:37.883Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:18:22.316Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:18:22.403Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /addProduct 200 1214 - 65.404 ms',
+  timestamp: '2023-03-07T23:18:27.428Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:18:28.996Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'POST /addProduct 200 1124 - 58.855 ms',
+  timestamp: '2023-03-07T23:18:29.055Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:19:17.961Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:19:18.023Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:19:25.504Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:19:25.542Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /addProduct 200 1214 - 48.700 ms',
+  timestamp: '2023-03-07T23:19:27.474Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:20:00.310Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:20:00.380Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /addProduct 304  - 27.705 ms',
+  timestamp: '2023-03-07T23:20:03.058Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 2.934 ms',
+  timestamp: '2023-03-07T23:20:03.080Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:20:25.678Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:20:25.741Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:20:42.714Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:21:18.346Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:21:18.384Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:21:24.200Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:23:00.762Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:23:00.818Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:23:07.632Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:23:07.672Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:23:19.275Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: {
+        data: {
+          price: 1,
+          rate: 1,
+          _id: new ObjectId("6407c767be270b158c49d56d")
+        }
+      },
+      error: null,
+      statusText: 'Successful Insertion'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-07T23:23:19.306Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:36:45.127Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:37:32.464Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:37:32.568Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:37:36.891Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:38:18.804Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:38:18.933Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:38:22.087Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: [
+        {
+          _id: new ObjectId("6407c6ca560671c828e11ed1"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:20:42.747Z,
+          updatedAt: 2023-03-07T23:20:42.747Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c6f4fbfd28b1f5349b79"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:21:24.224Z,
+          updatedAt: 2023-03-07T23:21:24.224Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c767be270b158c49d56d"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:23:19.313Z,
+          updatedAt: 2023-03-07T23:23:19.313Z,
+          __v: 0
+        }
+      ],
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-07T23:38:22.524Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 500 678 - 468.511 ms',
+  timestamp: '2023-03-07T23:38:22.561Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:38:44.543Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:38:44.629Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:38:45.622Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: [
+        {
+          _id: new ObjectId("6407c6ca560671c828e11ed1"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:20:42.747Z,
+          updatedAt: 2023-03-07T23:20:42.747Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c6f4fbfd28b1f5349b79"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:21:24.224Z,
+          updatedAt: 2023-03-07T23:21:24.224Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c767be270b158c49d56d"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:23:19.313Z,
+          updatedAt: 2023-03-07T23:23:19.313Z,
+          __v: 0
+        }
+      ],
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-07T23:38:46.048Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 200 467 - 503.141 ms',
+  timestamp: '2023-03-07T23:38:46.120Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 200 8036 - 9.370 ms',
+  timestamp: '2023-03-07T23:38:46.171Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:39:16.521Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:39:16.659Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:39:32.004Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: [
+        {
+          _id: new ObjectId("6407c6ca560671c828e11ed1"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:20:42.747Z,
+          updatedAt: 2023-03-07T23:20:42.747Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c6f4fbfd28b1f5349b79"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:21:24.224Z,
+          updatedAt: 2023-03-07T23:21:24.224Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c767be270b158c49d56d"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:23:19.313Z,
+          updatedAt: 2023-03-07T23:23:19.313Z,
+          __v: 0
+        }
+      ],
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-07T23:39:32.415Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 540.669 ms',
+  timestamp: '2023-03-07T23:39:32.543Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 6.171 ms',
+  timestamp: '2023-03-07T23:39:32.612Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:40:47.673Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:40:47.760Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:40:48.132Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: [
+        {
+          _id: new ObjectId("6407c6ca560671c828e11ed1"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:20:42.747Z,
+          updatedAt: 2023-03-07T23:20:42.747Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c6f4fbfd28b1f5349b79"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:21:24.224Z,
+          updatedAt: 2023-03-07T23:21:24.224Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c767be270b158c49d56d"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:23:19.313Z,
+          updatedAt: 2023-03-07T23:23:19.313Z,
+          __v: 0
+        }
+      ],
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-07T23:40:48.624Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 584.847 ms',
+  timestamp: '2023-03-07T23:40:48.717Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 10.440 ms',
+  timestamp: '2023-03-07T23:40:48.759Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:41:04.935Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:41:05.035Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:41:10.839Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: [
+        {
+          _id: new ObjectId("6407c6ca560671c828e11ed1"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:20:42.747Z,
+          updatedAt: 2023-03-07T23:20:42.747Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c6f4fbfd28b1f5349b79"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:21:24.224Z,
+          updatedAt: 2023-03-07T23:21:24.224Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c767be270b158c49d56d"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:23:19.313Z,
+          updatedAt: 2023-03-07T23:23:19.313Z,
+          __v: 0
+        }
+      ],
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-07T23:41:11.269Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 508.673 ms',
+  timestamp: '2023-03-07T23:41:11.348Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 10.138 ms',
+  timestamp: '2023-03-07T23:41:11.384Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:42:01.317Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:42:01.487Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:42:03.718Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: [
+        {
+          _id: new ObjectId("6407c6ca560671c828e11ed1"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:20:42.747Z,
+          updatedAt: 2023-03-07T23:20:42.747Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c6f4fbfd28b1f5349b79"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:21:24.224Z,
+          updatedAt: 2023-03-07T23:21:24.224Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c767be270b158c49d56d"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:23:19.313Z,
+          updatedAt: 2023-03-07T23:23:19.313Z,
+          __v: 0
+        }
+      ],
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-07T23:42:04.118Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 465.051 ms',
+  timestamp: '2023-03-07T23:42:04.183Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 6.422 ms',
+  timestamp: '2023-03-07T23:42:04.226Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:42:35.402Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:42:35.496Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:42:39.606Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: [
+        {
+          _id: new ObjectId("6407c6ca560671c828e11ed1"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:20:42.747Z,
+          updatedAt: 2023-03-07T23:20:42.747Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c6f4fbfd28b1f5349b79"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:21:24.224Z,
+          updatedAt: 2023-03-07T23:21:24.224Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c767be270b158c49d56d"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:23:19.313Z,
+          updatedAt: 2023-03-07T23:23:19.313Z,
+          __v: 0
+        }
+      ],
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-07T23:42:40.067Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 549.255 ms',
+  timestamp: '2023-03-07T23:42:40.150Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 8.797 ms',
+  timestamp: '2023-03-07T23:42:40.192Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:43:45.831Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:43:45.904Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:43:54.052Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:43:54.133Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:43:54.388Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:44:48.688Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:44:48.781Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:44:51.258Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: [
+        {
+          _id: new ObjectId("6407c6ca560671c828e11ed1"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:20:42.747Z,
+          updatedAt: 2023-03-07T23:20:42.747Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c6f4fbfd28b1f5349b79"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:21:24.224Z,
+          updatedAt: 2023-03-07T23:21:24.224Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c767be270b158c49d56d"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:23:19.313Z,
+          updatedAt: 2023-03-07T23:23:19.313Z,
+          __v: 0
+        }
+      ],
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-07T23:44:51.683Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 488.908 ms',
+  timestamp: '2023-03-07T23:44:51.745Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 7.599 ms',
+  timestamp: '2023-03-07T23:44:51.796Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:45:33.191Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:45:33.279Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:45:35.944Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: [
+        {
+          _id: new ObjectId("6407c6ca560671c828e11ed1"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:20:42.747Z,
+          updatedAt: 2023-03-07T23:20:42.747Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c6f4fbfd28b1f5349b79"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:21:24.224Z,
+          updatedAt: 2023-03-07T23:21:24.224Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c767be270b158c49d56d"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:23:19.313Z,
+          updatedAt: 2023-03-07T23:23:19.313Z,
+          __v: 0
+        }
+      ],
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-07T23:45:36.360Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 524.940 ms',
+  timestamp: '2023-03-07T23:45:36.465Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 8.450 ms',
+  timestamp: '2023-03-07T23:45:36.505Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:46:04.868Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:46:04.950Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:46:17.743Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: [
+        {
+          _id: new ObjectId("6407c6ca560671c828e11ed1"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:20:42.747Z,
+          updatedAt: 2023-03-07T23:20:42.747Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c6f4fbfd28b1f5349b79"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:21:24.224Z,
+          updatedAt: 2023-03-07T23:21:24.224Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c767be270b158c49d56d"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:23:19.313Z,
+          updatedAt: 2023-03-07T23:23:19.313Z,
+          __v: 0
+        }
+      ],
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-07T23:46:18.168Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 487.700 ms',
+  timestamp: '2023-03-07T23:46:18.231Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 7.208 ms',
+  timestamp: '2023-03-07T23:46:18.275Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:47:29.430Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:47:29.519Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:47:34.858Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: [
+        {
+          _id: new ObjectId("6407c6ca560671c828e11ed1"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:20:42.747Z,
+          updatedAt: 2023-03-07T23:20:42.747Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c6f4fbfd28b1f5349b79"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:21:24.224Z,
+          updatedAt: 2023-03-07T23:21:24.224Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c767be270b158c49d56d"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:23:19.313Z,
+          updatedAt: 2023-03-07T23:23:19.313Z,
+          __v: 0
+        }
+      ],
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-07T23:47:35.273Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 495.077 ms',
+  timestamp: '2023-03-07T23:47:35.349Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 10.517 ms',
+  timestamp: '2023-03-07T23:47:35.396Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:49:32.817Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:49:32.926Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:49:39.388Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: [
+        {
+          _id: new ObjectId("6407c6ca560671c828e11ed1"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:20:42.747Z,
+          updatedAt: 2023-03-07T23:20:42.747Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c6f4fbfd28b1f5349b79"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:21:24.224Z,
+          updatedAt: 2023-03-07T23:21:24.224Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c767be270b158c49d56d"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:23:19.313Z,
+          updatedAt: 2023-03-07T23:23:19.313Z,
+          __v: 0
+        }
+      ],
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-07T23:49:39.937Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 637.079 ms',
+  timestamp: '2023-03-07T23:49:40.024Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 7.918 ms',
+  timestamp: '2023-03-07T23:49:40.064Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:50:53.591Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:50:53.674Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:50:57.436Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: [
+        {
+          _id: new ObjectId("6407c6ca560671c828e11ed1"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:20:42.747Z,
+          updatedAt: 2023-03-07T23:20:42.747Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c6f4fbfd28b1f5349b79"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:21:24.224Z,
+          updatedAt: 2023-03-07T23:21:24.224Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c767be270b158c49d56d"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:23:19.313Z,
+          updatedAt: 2023-03-07T23:23:19.313Z,
+          __v: 0
+        }
+      ],
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-07T23:50:57.884Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 536.564 ms',
+  timestamp: '2023-03-07T23:50:57.966Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 8.364 ms',
+  timestamp: '2023-03-07T23:50:58.009Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:51:26.361Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:51:26.459Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:51:28.227Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: [
+        {
+          _id: new ObjectId("6407c6ca560671c828e11ed1"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:20:42.747Z,
+          updatedAt: 2023-03-07T23:20:42.747Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c6f4fbfd28b1f5349b79"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:21:24.224Z,
+          updatedAt: 2023-03-07T23:21:24.224Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c767be270b158c49d56d"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:23:19.313Z,
+          updatedAt: 2023-03-07T23:23:19.313Z,
+          __v: 0
+        }
+      ],
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-07T23:51:28.708Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 573.698 ms',
+  timestamp: '2023-03-07T23:51:28.795Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 7.289 ms',
+  timestamp: '2023-03-07T23:51:28.836Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:53:37.245Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:53:37.318Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:53:41.633Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: [
+        {
+          _id: new ObjectId("6407c6ca560671c828e11ed1"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:20:42.747Z,
+          updatedAt: 2023-03-07T23:20:42.747Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c6f4fbfd28b1f5349b79"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:21:24.224Z,
+          updatedAt: 2023-03-07T23:21:24.224Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c767be270b158c49d56d"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:23:19.313Z,
+          updatedAt: 2023-03-07T23:23:19.313Z,
+          __v: 0
+        }
+      ],
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-07T23:53:42.027Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:53:55.560Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:53:55.653Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:53:56.118Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: [
+        {
+          _id: new ObjectId("6407c6ca560671c828e11ed1"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:20:42.747Z,
+          updatedAt: 2023-03-07T23:20:42.747Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c6f4fbfd28b1f5349b79"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:21:24.224Z,
+          updatedAt: 2023-03-07T23:21:24.224Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c767be270b158c49d56d"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:23:19.313Z,
+          updatedAt: 2023-03-07T23:23:19.313Z,
+          __v: 0
+        }
+      ],
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-07T23:53:56.589Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 567.421 ms',
+  timestamp: '2023-03-07T23:53:56.677Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 7.009 ms',
+  timestamp: '2023-03-07T23:53:56.723Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:55:17.661Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:55:17.764Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:55:19.666Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: [
+        {
+          _id: new ObjectId("6407c6ca560671c828e11ed1"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:20:42.747Z,
+          updatedAt: 2023-03-07T23:20:42.747Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c6f4fbfd28b1f5349b79"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:21:24.224Z,
+          updatedAt: 2023-03-07T23:21:24.224Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c767be270b158c49d56d"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:23:19.313Z,
+          updatedAt: 2023-03-07T23:23:19.313Z,
+          __v: 0
+        }
+      ],
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-07T23:55:20.088Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 508.843 ms',
+  timestamp: '2023-03-07T23:55:20.171Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 5.816 ms',
+  timestamp: '2023-03-07T23:55:20.215Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:56:23.632Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:56:23.719Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:57:21.871Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:57:21.964Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:57:55.297Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:57:55.381Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:57:59.152Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: [
+        {
+          _id: new ObjectId("6407c6ca560671c828e11ed1"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:20:42.747Z,
+          updatedAt: 2023-03-07T23:20:42.747Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c6f4fbfd28b1f5349b79"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:21:24.224Z,
+          updatedAt: 2023-03-07T23:21:24.224Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c767be270b158c49d56d"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:23:19.313Z,
+          updatedAt: 2023-03-07T23:23:19.313Z,
+          __v: 0
+        }
+      ],
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-07T23:57:59.601Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:59:01.461Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:59:01.582Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:59:18.092Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:59:18.181Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:59:25.179Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:59:25.260Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:59:29.676Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:59:29.752Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:59:31.595Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: [
+        {
+          _id: new ObjectId("6407c6ca560671c828e11ed1"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:20:42.747Z,
+          updatedAt: 2023-03-07T23:20:42.747Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c6f4fbfd28b1f5349b79"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:21:24.224Z,
+          updatedAt: 2023-03-07T23:21:24.224Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c767be270b158c49d56d"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:23:19.313Z,
+          updatedAt: 2023-03-07T23:23:19.313Z,
+          __v: 0
+        }
+      ],
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-07T23:59:31.975Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-07T23:59:54.889Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-07T23:59:54.994Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-07T23:59:57.040Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: [
+        {
+          _id: new ObjectId("6407c6ca560671c828e11ed1"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:20:42.747Z,
+          updatedAt: 2023-03-07T23:20:42.747Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c6f4fbfd28b1f5349b79"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:21:24.224Z,
+          updatedAt: 2023-03-07T23:21:24.224Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c767be270b158c49d56d"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:23:19.313Z,
+          updatedAt: 2023-03-07T23:23:19.313Z,
+          __v: 0
+        }
+      ],
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-07T23:59:57.422Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 472.048 ms',
+  timestamp: '2023-03-07T23:59:57.509Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 8.616 ms',
+  timestamp: '2023-03-07T23:59:57.562Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:00:23.683Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:00:23.782Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-08T00:00:24.736Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: [
+        {
+          _id: new ObjectId("6407c6ca560671c828e11ed1"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:20:42.747Z,
+          updatedAt: 2023-03-07T23:20:42.747Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c6f4fbfd28b1f5349b79"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:21:24.224Z,
+          updatedAt: 2023-03-07T23:21:24.224Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c767be270b158c49d56d"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:23:19.313Z,
+          updatedAt: 2023-03-07T23:23:19.313Z,
+          __v: 0
+        }
+      ],
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-08T00:00:25.172Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 508.935 ms',
+  timestamp: '2023-03-08T00:00:25.237Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 9.284 ms',
+  timestamp: '2023-03-08T00:00:25.280Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:00:51.338Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:00:51.457Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-08T00:00:55.438Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: [
+        {
+          _id: new ObjectId("6407c6ca560671c828e11ed1"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:20:42.747Z,
+          updatedAt: 2023-03-07T23:20:42.747Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c6f4fbfd28b1f5349b79"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:21:24.224Z,
+          updatedAt: 2023-03-07T23:21:24.224Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c767be270b158c49d56d"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:23:19.313Z,
+          updatedAt: 2023-03-07T23:23:19.313Z,
+          __v: 0
+        }
+      ],
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-08T00:00:55.845Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 495.862 ms',
+  timestamp: '2023-03-08T00:00:55.928Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 10.031 ms',
+  timestamp: '2023-03-08T00:00:55.972Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:01:17.032Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:01:17.107Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-08T00:01:17.445Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: [
+        {
+          _id: new ObjectId("6407c6ca560671c828e11ed1"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:20:42.747Z,
+          updatedAt: 2023-03-07T23:20:42.747Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c6f4fbfd28b1f5349b79"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:21:24.224Z,
+          updatedAt: 2023-03-07T23:21:24.224Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c767be270b158c49d56d"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:23:19.313Z,
+          updatedAt: 2023-03-07T23:23:19.313Z,
+          __v: 0
+        }
+      ],
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-08T00:01:17.904Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 638.236 ms',
+  timestamp: '2023-03-08T00:01:18.031Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 4.865 ms',
+  timestamp: '2023-03-08T00:01:18.075Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:01:55.709Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:01:55.816Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-08T00:01:59.908Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: [
+        {
+          _id: new ObjectId("6407c6ca560671c828e11ed1"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:20:42.747Z,
+          updatedAt: 2023-03-07T23:20:42.747Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c6f4fbfd28b1f5349b79"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:21:24.224Z,
+          updatedAt: 2023-03-07T23:21:24.224Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c767be270b158c49d56d"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:23:19.313Z,
+          updatedAt: 2023-03-07T23:23:19.313Z,
+          __v: 0
+        }
+      ],
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-08T00:02:00.317Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:02:45.298Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:02:45.385Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:02:57.803Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:02:57.878Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-08T00:03:00.298Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: [
+        {
+          _id: new ObjectId("6407c6ca560671c828e11ed1"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:20:42.747Z,
+          updatedAt: 2023-03-07T23:20:42.747Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c6f4fbfd28b1f5349b79"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:21:24.224Z,
+          updatedAt: 2023-03-07T23:21:24.224Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c767be270b158c49d56d"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:23:19.313Z,
+          updatedAt: 2023-03-07T23:23:19.313Z,
+          __v: 0
+        }
+      ],
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-08T00:03:00.719Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:03:18.951Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:03:19.030Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-08T00:03:20.984Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: [
+        {
+          _id: new ObjectId("6407c6ca560671c828e11ed1"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:20:42.747Z,
+          updatedAt: 2023-03-07T23:20:42.747Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c6f4fbfd28b1f5349b79"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:21:24.224Z,
+          updatedAt: 2023-03-07T23:21:24.224Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c767be270b158c49d56d"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:23:19.313Z,
+          updatedAt: 2023-03-07T23:23:19.313Z,
+          __v: 0
+        }
+      ],
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-08T00:03:21.396Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 479.508 ms',
+  timestamp: '2023-03-08T00:03:21.465Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 6.896 ms',
+  timestamp: '2023-03-08T00:03:21.523Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:04:10.761Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:04:10.870Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-08T00:04:12.341Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: [
+        {
+          _id: new ObjectId("6407c6ca560671c828e11ed1"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:20:42.747Z,
+          updatedAt: 2023-03-07T23:20:42.747Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c6f4fbfd28b1f5349b79"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:21:24.224Z,
+          updatedAt: 2023-03-07T23:21:24.224Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c767be270b158c49d56d"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:23:19.313Z,
+          updatedAt: 2023-03-07T23:23:19.313Z,
+          __v: 0
+        }
+      ],
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-08T00:04:12.758Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 487.400 ms',
+  timestamp: '2023-03-08T00:04:12.828Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 7.384 ms',
+  timestamp: '2023-03-08T00:04:12.867Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:04:33.061Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:04:33.152Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-08T00:04:36.402Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: [
+        {
+          _id: new ObjectId("6407c6ca560671c828e11ed1"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:20:42.747Z,
+          updatedAt: 2023-03-07T23:20:42.747Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c6f4fbfd28b1f5349b79"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:21:24.224Z,
+          updatedAt: 2023-03-07T23:21:24.224Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c767be270b158c49d56d"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:23:19.313Z,
+          updatedAt: 2023-03-07T23:23:19.313Z,
+          __v: 0
+        }
+      ],
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-08T00:04:36.814Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 503.423 ms',
+  timestamp: '2023-03-08T00:04:36.902Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 8.406 ms',
+  timestamp: '2023-03-08T00:04:36.948Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:05:16.783Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:05:16.861Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-08T00:05:18.627Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: [
+        {
+          _id: new ObjectId("6407c6ca560671c828e11ed1"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:20:42.747Z,
+          updatedAt: 2023-03-07T23:20:42.747Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c6f4fbfd28b1f5349b79"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:21:24.224Z,
+          updatedAt: 2023-03-07T23:21:24.224Z,
+          __v: 0
+        },
+        {
+          _id: new ObjectId("6407c767be270b158c49d56d"),
+          price: 1,
+          rate: 1,
+          createdAt: 2023-03-07T23:23:19.313Z,
+          updatedAt: 2023-03-07T23:23:19.313Z,
+          __v: 0
+        }
+      ],
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-08T00:05:19.036Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 478.106 ms',
+  timestamp: '2023-03-08T00:05:19.105Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 7.499 ms',
+  timestamp: '2023-03-08T00:05:19.141Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:06:14.462Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:06:14.548Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-08T00:06:19.763Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: '[{"_id":"6407c6ca560671c828e11ed1","price":1,"rate":1,"createdAt":"2023-03-07T23:20:42.747Z","updatedAt":"2023-03-07T23:20:42.747Z","__v":0},{"_id":"6407c6f4fbfd28b1f5349b79","price":1,"rate":1,"createdAt":"2023-03-07T23:21:24.224Z","updatedAt":"2023-03-07T23:21:24.224Z","__v":0},{"_id":"6407c767be270b158c49d56d","price":1,"rate":1,"createdAt":"2023-03-07T23:23:19.313Z","updatedAt":"2023-03-07T23:23:19.313Z","__v":0}]',
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-08T00:06:20.377Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 686.491 ms',
+  timestamp: '2023-03-08T00:06:20.449Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 9.534 ms',
+  timestamp: '2023-03-08T00:06:20.500Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:06:38.322Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:06:38.408Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-08T00:06:38.807Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: '[{"_id":"6407c6ca560671c828e11ed1","price":1,"rate":1,"createdAt":"2023-03-07T23:20:42.747Z","updatedAt":"2023-03-07T23:20:42.747Z","__v":0},{"_id":"6407c6f4fbfd28b1f5349b79","price":1,"rate":1,"createdAt":"2023-03-07T23:21:24.224Z","updatedAt":"2023-03-07T23:21:24.224Z","__v":0},{"_id":"6407c767be270b158c49d56d","price":1,"rate":1,"createdAt":"2023-03-07T23:23:19.313Z","updatedAt":"2023-03-07T23:23:19.313Z","__v":0}]',
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-08T00:06:39.254Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 604.079 ms',
+  timestamp: '2023-03-08T00:06:39.385Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 7.369 ms',
+  timestamp: '2023-03-08T00:06:39.430Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:07:06.244Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:07:06.320Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-08T00:07:08.499Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: '[{"_id":"6407c6ca560671c828e11ed1","price":1,"rate":1,"createdAt":"2023-03-07T23:20:42.747Z","updatedAt":"2023-03-07T23:20:42.747Z","__v":0},{"_id":"6407c6f4fbfd28b1f5349b79","price":1,"rate":1,"createdAt":"2023-03-07T23:21:24.224Z","updatedAt":"2023-03-07T23:21:24.224Z","__v":0},{"_id":"6407c767be270b158c49d56d","price":1,"rate":1,"createdAt":"2023-03-07T23:23:19.313Z","updatedAt":"2023-03-07T23:23:19.313Z","__v":0}]',
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-08T00:07:08.934Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 528.389 ms',
+  timestamp: '2023-03-08T00:07:09.025Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 8.417 ms',
+  timestamp: '2023-03-08T00:07:09.070Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-08T00:07:11.786Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: '[{"_id":"6407c6ca560671c828e11ed1","price":1,"rate":1,"createdAt":"2023-03-07T23:20:42.747Z","updatedAt":"2023-03-07T23:20:42.747Z","__v":0},{"_id":"6407c6f4fbfd28b1f5349b79","price":1,"rate":1,"createdAt":"2023-03-07T23:21:24.224Z","updatedAt":"2023-03-07T23:21:24.224Z","__v":0},{"_id":"6407c767be270b158c49d56d","price":1,"rate":1,"createdAt":"2023-03-07T23:23:19.313Z","updatedAt":"2023-03-07T23:23:19.313Z","__v":0}]',
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-08T00:07:11.845Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 82.530 ms',
+  timestamp: '2023-03-08T00:07:11.867Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 4.468 ms',
+  timestamp: '2023-03-08T00:07:11.907Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:07:34.151Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:07:34.226Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-08T00:07:35.739Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: '[{"_id":"6407c6ca560671c828e11ed1","price":1,"rate":1,"createdAt":"2023-03-07T23:20:42.747Z","updatedAt":"2023-03-07T23:20:42.747Z","__v":0},{"_id":"6407c6f4fbfd28b1f5349b79","price":1,"rate":1,"createdAt":"2023-03-07T23:21:24.224Z","updatedAt":"2023-03-07T23:21:24.224Z","__v":0},{"_id":"6407c767be270b158c49d56d","price":1,"rate":1,"createdAt":"2023-03-07T23:23:19.313Z","updatedAt":"2023-03-07T23:23:19.313Z","__v":0}]',
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-08T00:07:36.142Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 492.092 ms',
+  timestamp: '2023-03-08T00:07:36.225Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 8.521 ms',
+  timestamp: '2023-03-08T00:07:36.274Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:08:21.353Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:08:21.448Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-08T00:08:22.761Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: '[{"_id":"6407c6ca560671c828e11ed1","price":1,"rate":1,"createdAt":"2023-03-07T23:20:42.747Z","updatedAt":"2023-03-07T23:20:42.747Z","__v":0},{"_id":"6407c6f4fbfd28b1f5349b79","price":1,"rate":1,"createdAt":"2023-03-07T23:21:24.224Z","updatedAt":"2023-03-07T23:21:24.224Z","__v":0},{"_id":"6407c767be270b158c49d56d","price":1,"rate":1,"createdAt":"2023-03-07T23:23:19.313Z","updatedAt":"2023-03-07T23:23:19.313Z","__v":0}]',
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-08T00:08:23.155Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 475.634 ms',
+  timestamp: '2023-03-08T00:08:23.232Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 7.574 ms',
+  timestamp: '2023-03-08T00:08:23.272Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:09:04.568Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:09:04.655Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-08T00:09:08.635Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: '[{"_id":"6407c6ca560671c828e11ed1","price":1,"rate":1,"createdAt":"2023-03-07T23:20:42.747Z","updatedAt":"2023-03-07T23:20:42.747Z","__v":0},{"_id":"6407c6f4fbfd28b1f5349b79","price":1,"rate":1,"createdAt":"2023-03-07T23:21:24.224Z","updatedAt":"2023-03-07T23:21:24.224Z","__v":0},{"_id":"6407c767be270b158c49d56d","price":1,"rate":1,"createdAt":"2023-03-07T23:23:19.313Z","updatedAt":"2023-03-07T23:23:19.313Z","__v":0}]',
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-08T00:09:09.083Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 527.782 ms',
+  timestamp: '2023-03-08T00:09:09.159Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 8.876 ms',
+  timestamp: '2023-03-08T00:09:09.204Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:09:57.176Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:09:57.268Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-08T00:10:01.670Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: '[{"_id":"6407c6ca560671c828e11ed1","price":1,"rate":1,"createdAt":"2023-03-07T23:20:42.747Z","updatedAt":"2023-03-07T23:20:42.747Z","__v":0},{"_id":"6407c6f4fbfd28b1f5349b79","price":1,"rate":1,"createdAt":"2023-03-07T23:21:24.224Z","updatedAt":"2023-03-07T23:21:24.224Z","__v":0},{"_id":"6407c767be270b158c49d56d","price":1,"rate":1,"createdAt":"2023-03-07T23:23:19.313Z","updatedAt":"2023-03-07T23:23:19.313Z","__v":0}]',
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-08T00:10:02.089Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 507.066 ms',
+  timestamp: '2023-03-08T00:10:02.174Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 9.884 ms',
+  timestamp: '2023-03-08T00:10:02.215Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:10:37.897Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:10:37.983Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-08T00:10:41.032Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: '[{"_id":"6407c6ca560671c828e11ed1","price":1,"rate":1,"createdAt":"2023-03-07T23:20:42.747Z","updatedAt":"2023-03-07T23:20:42.747Z","__v":0},{"_id":"6407c6f4fbfd28b1f5349b79","price":1,"rate":1,"createdAt":"2023-03-07T23:21:24.224Z","updatedAt":"2023-03-07T23:21:24.224Z","__v":0},{"_id":"6407c767be270b158c49d56d","price":1,"rate":1,"createdAt":"2023-03-07T23:23:19.313Z","updatedAt":"2023-03-07T23:23:19.313Z","__v":0}]',
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-08T00:10:41.463Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 514.946 ms',
+  timestamp: '2023-03-08T00:10:41.542Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 7.799 ms',
+  timestamp: '2023-03-08T00:10:41.583Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:10:57.717Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:10:57.800Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-08T00:10:58.168Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: '[{"_id":"6407c6ca560671c828e11ed1","price":1,"rate":1,"createdAt":"2023-03-07T23:20:42.747Z","updatedAt":"2023-03-07T23:20:42.747Z","__v":0},{"_id":"6407c6f4fbfd28b1f5349b79","price":1,"rate":1,"createdAt":"2023-03-07T23:21:24.224Z","updatedAt":"2023-03-07T23:21:24.224Z","__v":0},{"_id":"6407c767be270b158c49d56d","price":1,"rate":1,"createdAt":"2023-03-07T23:23:19.313Z","updatedAt":"2023-03-07T23:23:19.313Z","__v":0}]',
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-08T00:10:58.622Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 544.776 ms',
+  timestamp: '2023-03-08T00:10:58.709Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 9.098 ms',
+  timestamp: '2023-03-08T00:10:58.750Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:11:32.061Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:11:32.147Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-08T00:11:36.090Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: '[{"_id":"6407c6ca560671c828e11ed1","price":1,"rate":1,"createdAt":"2023-03-07T23:20:42.747Z","updatedAt":"2023-03-07T23:20:42.747Z","__v":0},{"_id":"6407c6f4fbfd28b1f5349b79","price":1,"rate":1,"createdAt":"2023-03-07T23:21:24.224Z","updatedAt":"2023-03-07T23:21:24.224Z","__v":0},{"_id":"6407c767be270b158c49d56d","price":1,"rate":1,"createdAt":"2023-03-07T23:23:19.313Z","updatedAt":"2023-03-07T23:23:19.313Z","__v":0}]',
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-08T00:11:36.476Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 438.433 ms',
+  timestamp: '2023-03-08T00:11:36.529Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 7.067 ms',
+  timestamp: '2023-03-08T00:11:36.563Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:12:41.363Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:12:41.461Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:12:48.907Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:12:48.985Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-08T00:12:53.198Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: '[{"_id":"6407c6ca560671c828e11ed1","price":1,"rate":1,"createdAt":"2023-03-07T23:20:42.747Z","updatedAt":"2023-03-07T23:20:42.747Z","__v":0},{"_id":"6407c6f4fbfd28b1f5349b79","price":1,"rate":1,"createdAt":"2023-03-07T23:21:24.224Z","updatedAt":"2023-03-07T23:21:24.224Z","__v":0},{"_id":"6407c767be270b158c49d56d","price":1,"rate":1,"createdAt":"2023-03-07T23:23:19.313Z","updatedAt":"2023-03-07T23:23:19.313Z","__v":0}]',
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-08T00:12:53.599Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 494.318 ms',
+  timestamp: '2023-03-08T00:12:53.688Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 8.462 ms',
+  timestamp: '2023-03-08T00:12:53.733Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:13:50.786Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:13:50.868Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:13:54.915Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:13:54.992Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-08T00:13:58.904Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: '[{"_id":"6407c6ca560671c828e11ed1","price":1,"rate":1,"createdAt":"2023-03-07T23:20:42.747Z","updatedAt":"2023-03-07T23:20:42.747Z","__v":0},{"_id":"6407c6f4fbfd28b1f5349b79","price":1,"rate":1,"createdAt":"2023-03-07T23:21:24.224Z","updatedAt":"2023-03-07T23:21:24.224Z","__v":0},{"_id":"6407c767be270b158c49d56d","price":1,"rate":1,"createdAt":"2023-03-07T23:23:19.313Z","updatedAt":"2023-03-07T23:23:19.313Z","__v":0}]',
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-08T00:13:59.313Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 499.306 ms',
+  timestamp: '2023-03-08T00:13:59.399Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 7.975 ms',
+  timestamp: '2023-03-08T00:13:59.441Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:14:51.579Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:14:51.710Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-08T00:14:54.328Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: '[{"_id":"6407c6ca560671c828e11ed1","price":1,"rate":1,"createdAt":"2023-03-07T23:20:42.747Z","updatedAt":"2023-03-07T23:20:42.747Z","__v":0},{"_id":"6407c6f4fbfd28b1f5349b79","price":1,"rate":1,"createdAt":"2023-03-07T23:21:24.224Z","updatedAt":"2023-03-07T23:21:24.224Z","__v":0},{"_id":"6407c767be270b158c49d56d","price":1,"rate":1,"createdAt":"2023-03-07T23:23:19.313Z","updatedAt":"2023-03-07T23:23:19.313Z","__v":0}]',
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-08T00:14:54.739Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 496.711 ms',
+  timestamp: '2023-03-08T00:14:54.819Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 8.294 ms',
+  timestamp: '2023-03-08T00:14:54.861Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:15:28.391Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:15:28.480Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:15:57.837Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:15:57.947Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-08T00:15:59.891Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: '[{"_id":"6407c6ca560671c828e11ed1","price":1,"rate":1,"createdAt":"2023-03-07T23:20:42.747Z","updatedAt":"2023-03-07T23:20:42.747Z","__v":0},{"_id":"6407c6f4fbfd28b1f5349b79","price":1,"rate":1,"createdAt":"2023-03-07T23:21:24.224Z","updatedAt":"2023-03-07T23:21:24.224Z","__v":0},{"_id":"6407c767be270b158c49d56d","price":1,"rate":1,"createdAt":"2023-03-07T23:23:19.313Z","updatedAt":"2023-03-07T23:23:19.313Z","__v":0}]',
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-08T00:16:00.419Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 603.554 ms',
+  timestamp: '2023-03-08T00:16:00.491Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 6.527 ms',
+  timestamp: '2023-03-08T00:16:00.535Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:18:32.613Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:18:32.698Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:18:44.333Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:18:44.403Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-08T00:18:45.447Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: '[{"_id":"6407c6ca560671c828e11ed1","price":1,"rate":1,"createdAt":"2023-03-07T23:20:42.747Z","updatedAt":"2023-03-07T23:20:42.747Z","__v":0},{"_id":"6407c6f4fbfd28b1f5349b79","price":1,"rate":1,"createdAt":"2023-03-07T23:21:24.224Z","updatedAt":"2023-03-07T23:21:24.224Z","__v":0},{"_id":"6407c767be270b158c49d56d","price":1,"rate":1,"createdAt":"2023-03-07T23:23:19.313Z","updatedAt":"2023-03-07T23:23:19.313Z","__v":0}]',
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-08T00:18:45.846Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:19:28.767Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:19:28.844Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-08T00:19:33.708Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: '[{"_id":"6407c6ca560671c828e11ed1","price":1,"rate":1,"createdAt":"2023-03-07T23:20:42.747Z","updatedAt":"2023-03-07T23:20:42.747Z","__v":0},{"_id":"6407c6f4fbfd28b1f5349b79","price":1,"rate":1,"createdAt":"2023-03-07T23:21:24.224Z","updatedAt":"2023-03-07T23:21:24.224Z","__v":0},{"_id":"6407c767be270b158c49d56d","price":1,"rate":1,"createdAt":"2023-03-07T23:23:19.313Z","updatedAt":"2023-03-07T23:23:19.313Z","__v":0}]',
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-08T00:19:34.175Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 554.039 ms',
+  timestamp: '2023-03-08T00:19:34.259Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 9.530 ms',
+  timestamp: '2023-03-08T00:19:34.310Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:20:04.280Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:20:04.353Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-08T00:20:06.482Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: '[{"_id":"6407c6ca560671c828e11ed1","price":1,"rate":1,"createdAt":"2023-03-07T23:20:42.747Z","updatedAt":"2023-03-07T23:20:42.747Z","__v":0},{"_id":"6407c6f4fbfd28b1f5349b79","price":1,"rate":1,"createdAt":"2023-03-07T23:21:24.224Z","updatedAt":"2023-03-07T23:21:24.224Z","__v":0},{"_id":"6407c767be270b158c49d56d","price":1,"rate":1,"createdAt":"2023-03-07T23:23:19.313Z","updatedAt":"2023-03-07T23:23:19.313Z","__v":0}]',
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-08T00:20:06.877Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 478.990 ms',
+  timestamp: '2023-03-08T00:20:06.962Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 11.630 ms',
+  timestamp: '2023-03-08T00:20:07.011Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:21:44.065Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:21:44.135Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-08T00:21:44.467Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: '[{"_id":"6407c6ca560671c828e11ed1","price":1,"rate":1,"createdAt":"2023-03-07T23:20:42.747Z","updatedAt":"2023-03-07T23:20:42.747Z","__v":0},{"_id":"6407c6f4fbfd28b1f5349b79","price":1,"rate":1,"createdAt":"2023-03-07T23:21:24.224Z","updatedAt":"2023-03-07T23:21:24.224Z","__v":0},{"_id":"6407c767be270b158c49d56d","price":1,"rate":1,"createdAt":"2023-03-07T23:23:19.313Z","updatedAt":"2023-03-07T23:23:19.313Z","__v":0}]',
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-08T00:21:44.894Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 200 764 - 530.344 ms',
+  timestamp: '2023-03-08T00:21:44.993Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 19.517 ms',
+  timestamp: '2023-03-08T00:21:45.049Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:24:55.387Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:24:55.470Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-08T00:24:57.779Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: '[{"_id":"6407c6ca560671c828e11ed1","price":1,"rate":1,"createdAt":"2023-03-07T23:20:42.747Z","updatedAt":"2023-03-07T23:20:42.747Z","__v":0,"description":"PLANCHA","name":"PLancha"},{"_id":"6407c6f4fbfd28b1f5349b79","price":1,"rate":1,"createdAt":"2023-03-07T23:21:24.224Z","updatedAt":"2023-03-07T23:21:24.224Z","__v":0},{"_id":"6407c767be270b158c49d56d","price":1,"rate":1,"createdAt":"2023-03-07T23:23:19.313Z","updatedAt":"2023-03-07T23:23:19.313Z","__v":0}]',
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-08T00:24:58.185Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 485.063 ms',
+  timestamp: '2023-03-08T00:24:58.260Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 4.569 ms',
+  timestamp: '2023-03-08T00:24:58.298Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-08T00:25:01.200Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: '[{"_id":"6407c6ca560671c828e11ed1","price":1,"rate":1,"createdAt":"2023-03-07T23:20:42.747Z","updatedAt":"2023-03-07T23:20:42.747Z","__v":0,"description":"PLANCHA","name":"PLancha"},{"_id":"6407c6f4fbfd28b1f5349b79","price":1,"rate":1,"createdAt":"2023-03-07T23:21:24.224Z","updatedAt":"2023-03-07T23:21:24.224Z","__v":0},{"_id":"6407c767be270b158c49d56d","price":1,"rate":1,"createdAt":"2023-03-07T23:23:19.313Z","updatedAt":"2023-03-07T23:23:19.313Z","__v":0}]',
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-08T00:25:01.260Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 82.281 ms',
+  timestamp: '2023-03-08T00:25:01.281Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 4.934 ms',
+  timestamp: '2023-03-08T00:25:01.317Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:25:18.875Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:25:18.964Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-08T00:25:20.292Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: '[{"_id":"6407c6ca560671c828e11ed1","price":1,"rate":1,"createdAt":"2023-03-07T23:20:42.747Z","updatedAt":"2023-03-07T23:20:42.747Z","__v":0,"description":"PLANCHA","name":"PLancha"},{"_id":"6407c6f4fbfd28b1f5349b79","price":1,"rate":1,"createdAt":"2023-03-07T23:21:24.224Z","updatedAt":"2023-03-07T23:21:24.224Z","__v":0},{"_id":"6407c767be270b158c49d56d","price":1,"rate":1,"createdAt":"2023-03-07T23:23:19.313Z","updatedAt":"2023-03-07T23:23:19.313Z","__v":0}]',
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-08T00:25:20.694Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 200 816 - 500.204 ms',
+  timestamp: '2023-03-08T00:25:20.788Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 7.649 ms',
+  timestamp: '2023-03-08T00:25:20.828Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:27:05.534Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:27:05.609Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-08T00:27:07.870Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: '[{"_id":"6407c6ca560671c828e11ed1","price":1,"rate":1,"createdAt":"2023-03-07T23:20:42.747Z","updatedAt":"2023-03-07T23:20:42.747Z","__v":0,"description":"PLANCHA","name":"PLancha"},{"_id":"6407c6f4fbfd28b1f5349b79","price":1,"rate":1,"createdAt":"2023-03-07T23:21:24.224Z","updatedAt":"2023-03-07T23:21:24.224Z","__v":0},{"_id":"6407c767be270b158c49d56d","price":1,"rate":1,"createdAt":"2023-03-07T23:23:19.313Z","updatedAt":"2023-03-07T23:23:19.313Z","__v":0}]',
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-08T00:27:08.263Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 304  - 483.292 ms',
+  timestamp: '2023-03-08T00:27:08.353Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 9.311 ms',
+  timestamp: '2023-03-08T00:27:08.400Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:27:22.641Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:27:22.720Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Connected to Mongoose',
+  timestamp: '2023-03-08T00:27:23.776Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'info',
+    response: DataResponseClass {
+      status: 200,
+      ok: true,
+      response: '[{"_id":"6407c6ca560671c828e11ed1","price":1,"rate":1,"createdAt":"2023-03-07T23:20:42.747Z","updatedAt":"2023-03-07T23:20:42.747Z","__v":0,"description":"PLANCHA","name":"PLancha"},{"_id":"6407c6f4fbfd28b1f5349b79","price":1,"rate":1,"createdAt":"2023-03-07T23:21:24.224Z","updatedAt":"2023-03-07T23:21:24.224Z","__v":0},{"_id":"6407c767be270b158c49d56d","price":1,"rate":1,"createdAt":"2023-03-07T23:23:19.313Z","updatedAt":"2023-03-07T23:23:19.313Z","__v":0}]',
+      error: null,
+      statusText: 'Data Queried'
+    }
+  },
+  level: 'info',
+  timestamp: '2023-03-08T00:27:24.172Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /showProducts 200 802 - 489.118 ms',
+  timestamp: '2023-03-08T00:27:24.263Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'GET /style.css 304  - 8.567 ms',
+  timestamp: '2023-03-08T00:27:24.303Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: 'Mongo Connected',
+  level: 'info',
+  timestamp: '2023-03-08T00:28:23.684Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'info',
+  message: 'Server Up in port 3000',
+  timestamp: '2023-03-08T00:28:23.760Z',
+  label: 'e-Commerce Backend Debuger'
+}

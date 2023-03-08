@@ -2,10 +2,20 @@ import { Router } from "express";
 import { logger } from "../helper/LoggerConfig.js"
  import login from './login.js'
 import register from './register.js'
+import home from './home.js'
+import logout from './logout.js'
+import profile from './profile.js'
+import addProduct from './addproduct.js'
+import showproducts from './showproducts.js'
 const router =Router();
 const routes ={ 
     login,
     register,
+    home,
+    logout,
+    profile,
+    addProduct,
+    showproducts,
     default:router.get((req,res)=>{
         logger.info.info({level:"info",message:"Wrong Route redirecting to /login"})
         res.render("login")

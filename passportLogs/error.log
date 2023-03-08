@@ -1,7 +1,0 @@
-{
-  level: 'error',
-  title: 'Error accesing database',
-  message: 'MongooseError: Operation `localcollections.findOne()` buffering timed out after 10000ms',
-  label: 'Logged by passport-fast-config',
-  timestamp: '2023-03-06T02:53:15.127Z'
-}
