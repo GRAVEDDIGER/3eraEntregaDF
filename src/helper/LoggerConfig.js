@@ -18,7 +18,7 @@ info: winston.createLogger({
 
 }),
 warning: winston.createLogger({
-    level:"warning",
+    level:"warn",
     format:winston.format.combine(winston.format.timestamp(),winston.format.label({label:"e-Commerce Backend Debuger"}),winston.format.prettyPrint()),
     transports:[new winston.transports.Console({format:winston.format.combine(winston.format.colorize(),winston.format.simple())}),new winston.transports.File({filename:path.join(logsDir,"/warning.log")})]
 

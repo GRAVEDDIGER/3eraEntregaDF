@@ -442,7 +442,11 @@ body {
 .card:hover {
   transform: translateY(-5px);
 }
-
+.cardButton {
+  width: 100%;
+  display: flex;
+  min-height: 150px;
+}
 .card-header {
   background-color: #0d6efd;
   color: #fff;
@@ -478,4 +482,85 @@ body {
 .card-footer .rate {
   font-weight: bold;
   font-size: 1.2rem;
+}
+.product {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1.5rem;
+  border: #000 solid 2px;
+  margin: 2rem;
+  box-shadow: 3px 3px 15px #333;
+  border-radius: 10px;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f4f4f4;
+}
+
+h1 {
+  font-size: 36px;
+  color: #333;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+thead {
+  background-color: #333;
+  color: #fff;
+}
+
+th,
+td {
+  padding: 10px;
+  text-align: left;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #ddd;
+}
+
+.buy-button,
+.back-button {
+  display: block;
+  width: 100%;
+  margin: 20px 0;
+  padding: 10px;
+  font-size: 20px;
+  color: #fff;
+  background-color: #333;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+}
+
+.buy-button:hover,
+.back-button:hover {
+  background-color: #555;
+}
+.salesScreen {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #c0392b;
+  color: #ddd;
+}
+.salesScreenTitle {
+  font-size: 32px;
+  color: #333;
+}
+.salesScreenP {
+  color: #ddd;
 }

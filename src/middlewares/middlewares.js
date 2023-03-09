@@ -42,7 +42,11 @@ export const middleWareLoader =async(express,app)=>{
     app.use("/logout",routes.logout)
     app.use("/viewProfile",routes.profile)
     app.use("/addProduct",routes.addProduct)
-    app.use("/showProducts",routes.showproducts)
+    app.use("/viewProducts",routes.showproducts)
+    app.use("/addcart",routes.addcart)
+    app.use("/viewcart",routes.viewcart)
+    app.use("/sale",routes.sales)
+    
     //app.use("/",routes)
     handleConfig(app)   
 return passportObject

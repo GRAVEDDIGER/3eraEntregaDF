@@ -5,12 +5,14 @@ routes.get("/",async (req,res)=>{
     const DAO = await ProductsDao()
     const data = await DAO.showProducts()
    let products = JSON.parse(data.response)
-  
-   console.log(typeof products,products)
-//    products.forEach(product => console.log(product,"algo"))
-    res.render("showproducts",{products:[...products]})})
-routes.get("/:id",(req,res)=>{
+    res.render("showproducts",{products:products})})
+routes.get("/:id",async (req,res)=>{
 const {id}=req.params
-res.render("showProduct")
+console.log(id)
+const DAO =await ProductsDao()
+console.log(DAO)
+const data = await DAO.showProduct(id)
+console.log(data)
+res.render("showproduct",data.response)
 })
 export default routes

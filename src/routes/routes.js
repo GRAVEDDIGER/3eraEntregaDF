@@ -7,6 +7,9 @@ import logout from './logout.js'
 import profile from './profile.js'
 import addProduct from './addproduct.js'
 import showproducts from './showproducts.js'
+import addcart from './addcart.js'
+import viewcart from './viewcart.js'
+import sales from "./sales.js"
 const router =Router();
 const routes ={ 
     login,
@@ -16,6 +19,9 @@ const routes ={
     profile,
     addProduct,
     showproducts,
+    addcart,
+    viewcart,
+    sales,
     default:router.get((req,res)=>{
         logger.info.info({level:"info",message:"Wrong Route redirecting to /login"})
         res.render("login")

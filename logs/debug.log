@@ -1,0 +1,1490 @@
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T15:37:41.902Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' },
+      cart: '6409faf501f1e80dadba60cf'
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:29:35.464Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T15:37:41.902Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' },
+    cart: '6409faf501f1e80dadba60cf'
+  },
+  timestamp: '2023-03-09T15:29:35.597Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T15:37:41.902Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' },
+      cart: '6409faf501f1e80dadba60cf'
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:29:36.648Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T15:37:41.902Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' },
+    cart: '6409faf501f1e80dadba60cf'
+  },
+  timestamp: '2023-03-09T15:29:36.750Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T15:37:41.902Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' },
+      cart: '6409faf501f1e80dadba60cf'
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:29:37.019Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T15:37:41.902Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' },
+    cart: '6409faf501f1e80dadba60cf'
+  },
+  timestamp: '2023-03-09T15:29:37.101Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T15:37:41.902Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' },
+      cart: '6409faf501f1e80dadba60cf'
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:29:37.475Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T15:37:41.902Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' },
+    cart: '6409faf501f1e80dadba60cf'
+  },
+  timestamp: '2023-03-09T15:29:37.593Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T15:37:41.902Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' },
+      cart: '6409faf501f1e80dadba60cf'
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:29:37.856Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T15:37:41.902Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' },
+    cart: '6409faf501f1e80dadba60cf'
+  },
+  timestamp: '2023-03-09T15:29:37.968Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T15:37:41.902Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' },
+      cart: '6409faf501f1e80dadba60cf'
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:29:38.290Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T15:37:41.902Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' },
+    cart: '6409faf501f1e80dadba60cf'
+  },
+  timestamp: '2023-03-09T15:29:38.377Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T15:37:41.902Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' },
+      cart: '6409faf501f1e80dadba60cf'
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:29:38.661Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T15:37:41.902Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' },
+    cart: '6409faf501f1e80dadba60cf'
+  },
+  timestamp: '2023-03-09T15:29:38.746Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T15:37:41.902Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' },
+      cart: '6409faf501f1e80dadba60cf'
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:29:38.970Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T15:37:41.902Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' },
+    cart: '6409faf501f1e80dadba60cf'
+  },
+  timestamp: '2023-03-09T15:29:39.131Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T15:37:41.902Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' },
+      cart: '6409faf501f1e80dadba60cf'
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:29:39.653Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T15:37:41.902Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' },
+    cart: '6409faf501f1e80dadba60cf'
+  },
+  timestamp: '2023-03-09T15:29:39.793Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T15:37:41.902Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' },
+      cart: '6409faf501f1e80dadba60cf'
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:29:40.008Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T15:37:41.902Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' },
+    cart: '6409faf501f1e80dadba60cf'
+  },
+  timestamp: '2023-03-09T15:29:40.090Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T15:37:41.902Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' },
+      cart: '6409faf501f1e80dadba60cf'
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:34:26.172Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T15:37:41.902Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' },
+    cart: '6409faf501f1e80dadba60cf'
+  },
+  timestamp: '2023-03-09T15:34:26.306Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T15:37:41.902Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' },
+      cart: '6409faf501f1e80dadba60cf'
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:34:27.264Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T15:37:41.902Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' },
+    cart: '6409faf501f1e80dadba60cf'
+  },
+  timestamp: '2023-03-09T15:34:27.364Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T15:37:41.902Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' },
+      cart: '6409faf501f1e80dadba60cf'
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:34:27.630Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T15:37:41.902Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' },
+    cart: '6409faf501f1e80dadba60cf'
+  },
+  timestamp: '2023-03-09T15:34:27.711Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T15:37:41.902Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' },
+      cart: '6409faf501f1e80dadba60cf'
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:34:28.046Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T15:37:41.902Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' },
+    cart: '6409faf501f1e80dadba60cf'
+  },
+  timestamp: '2023-03-09T15:34:28.113Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T15:37:41.902Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' },
+      cart: '6409faf501f1e80dadba60cf'
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:34:28.433Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T15:37:41.902Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' },
+    cart: '6409faf501f1e80dadba60cf'
+  },
+  timestamp: '2023-03-09T15:34:28.495Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T15:37:41.902Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' },
+      cart: '6409faf501f1e80dadba60cf'
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:34:28.842Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T15:37:41.902Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' },
+    cart: '6409faf501f1e80dadba60cf'
+  },
+  timestamp: '2023-03-09T15:34:28.947Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T15:37:41.902Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' },
+      cart: '6409faf501f1e80dadba60cf'
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:34:29.213Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T15:37:41.902Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' },
+    cart: '6409faf501f1e80dadba60cf'
+  },
+  timestamp: '2023-03-09T15:34:29.333Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T15:37:41.902Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' },
+      cart: '6409faf501f1e80dadba60cf'
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:34:29.678Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T15:37:41.902Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' },
+    cart: '6409faf501f1e80dadba60cf'
+  },
+  timestamp: '2023-03-09T15:34:29.769Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T15:37:41.902Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' },
+      cart: '6409faf501f1e80dadba60cf'
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:34:30.115Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T15:37:41.902Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' },
+    cart: '6409faf501f1e80dadba60cf'
+  },
+  timestamp: '2023-03-09T15:34:30.211Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T15:37:41.902Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' },
+      cart: '6409faf501f1e80dadba60cf'
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:34:30.422Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T15:37:41.902Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' },
+    cart: '6409faf501f1e80dadba60cf'
+  },
+  timestamp: '2023-03-09T15:34:30.482Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T15:37:41.902Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' },
+      cart: '6409faf501f1e80dadba60cf'
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:34:30.716Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T15:37:41.902Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' },
+    cart: '6409faf501f1e80dadba60cf'
+  },
+  timestamp: '2023-03-09T15:34:30.791Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T15:37:41.902Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' },
+      cart: '6409faf501f1e80dadba60cf'
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:34:30.984Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T15:37:41.902Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' },
+    cart: '6409faf501f1e80dadba60cf'
+  },
+  timestamp: '2023-03-09T15:34:31.129Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T15:37:41.902Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' },
+      cart: '6409faf501f1e80dadba60cf'
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:34:31.427Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T15:37:41.902Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' },
+    cart: '6409faf501f1e80dadba60cf'
+  },
+  timestamp: '2023-03-09T15:34:31.494Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T15:37:41.902Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' },
+      cart: '6409faf501f1e80dadba60cf'
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:34:31.754Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T15:37:41.902Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' },
+    cart: '6409faf501f1e80dadba60cf'
+  },
+  timestamp: '2023-03-09T15:34:31.860Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T15:37:41.902Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' },
+      cart: '6409faf501f1e80dadba60cf'
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:34:32.136Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T15:37:41.902Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' },
+    cart: '6409faf501f1e80dadba60cf'
+  },
+  timestamp: '2023-03-09T15:34:32.222Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T15:37:41.902Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' },
+      cart: '6409faf501f1e80dadba60cf'
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:34:32.501Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T15:37:41.902Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' },
+    cart: '6409faf501f1e80dadba60cf'
+  },
+  timestamp: '2023-03-09T15:34:32.597Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T15:37:41.902Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' },
+      cart: '6409faf501f1e80dadba60cf'
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:34:32.902Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T15:37:41.902Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' },
+    cart: '6409faf501f1e80dadba60cf'
+  },
+  timestamp: '2023-03-09T15:34:33.016Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T15:37:41.902Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' },
+      cart: '6409faf501f1e80dadba60cf'
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:34:33.233Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T15:37:41.902Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' },
+    cart: '6409faf501f1e80dadba60cf'
+  },
+  timestamp: '2023-03-09T15:34:33.374Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T15:37:41.902Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' },
+      cart: '6409faf501f1e80dadba60cf'
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:34:33.668Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T15:37:41.902Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' },
+    cart: '6409faf501f1e80dadba60cf'
+  },
+  timestamp: '2023-03-09T15:34:33.777Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T15:37:41.902Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' },
+      cart: '6409faf501f1e80dadba60cf'
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:34:34.102Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T15:37:41.902Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' },
+    cart: '6409faf501f1e80dadba60cf'
+  },
+  timestamp: '2023-03-09T15:34:34.258Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T15:37:41.902Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' },
+      cart: '6409faf501f1e80dadba60cf'
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:34:35.563Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T15:37:41.902Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' },
+    cart: '6409faf501f1e80dadba60cf'
+  },
+  timestamp: '2023-03-09T15:34:35.628Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T15:37:41.902Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' },
+      cart: '6409faf501f1e80dadba60cf'
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:34:35.995Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T15:37:41.902Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' },
+    cart: '6409faf501f1e80dadba60cf'
+  },
+  timestamp: '2023-03-09T15:34:36.127Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T15:37:41.902Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' },
+      cart: '6409faf501f1e80dadba60cf'
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:35:36.868Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T15:37:41.902Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' },
+    cart: '6409faf501f1e80dadba60cf'
+  },
+  timestamp: '2023-03-09T15:35:37.048Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T16:00:36.014Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      }
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:50:36.151Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart DOESNT exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T16:00:36.014Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    }
+  },
+  timestamp: '2023-03-09T15:50:36.153Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T16:00:51.252Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' }
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T15:50:59.030Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart DOESNT exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T16:00:51.252Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' }
+  },
+  timestamp: '2023-03-09T15:50:59.031Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T17:44:19.824Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' }
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T17:34:37.472Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart DOESNT exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T17:44:19.824Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' }
+  },
+  timestamp: '2023-03-09T17:34:37.474Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T17:56:06.662Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' }
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T17:46:13.965Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart DOESNT exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T17:56:06.662Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' }
+  },
+  timestamp: '2023-03-09T17:46:13.967Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T17:56:06.662Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' },
+      cart: '640a1b65fcd304adbd93d561'
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T17:46:17.832Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T17:56:06.662Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' },
+    cart: '640a1b65fcd304adbd93d561'
+  },
+  timestamp: '2023-03-09T17:46:17.891Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Products displayed',
+  products: {
+    _id: '640a1b65fcd304adbd93d561',
+    user: {
+      nombre: 'Adrian',
+      apellido: 'Adrian',
+      edad: 1,
+      avatar: './src/public/images/1678170992823.jpg',
+      username: 'aabadin@gmail.com',
+      _id: '640554b74d62019f58650c8b'
+    },
+    products: [
+      {
+        name: 'PLancha',
+        price: 1,
+        rate: 1,
+        description: 'PLANCHA',
+        _id: '6407c6ca560671c828e11ed1',
+        createdAt: '2023-03-07T23:20:42.747Z',
+        updatedAt: '2023-03-07T23:20:42.747Z',
+        __v: 0
+      },
+      {
+        price: 1,
+        rate: 1,
+        _id: '6407c6f4fbfd28b1f5349b79',
+        createdAt: '2023-03-07T23:21:24.224Z',
+        updatedAt: '2023-03-07T23:21:24.224Z',
+        __v: 0
+      }
+    ],
+    createdAt: '2023-03-09T17:46:14.021Z',
+    updatedAt: '2023-03-09T17:46:17.909Z',
+    __v: 1
+  },
+  timestamp: '2023-03-09T17:52:10.837Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Products displayed',
+  products: {
+    _id: '640a1b65fcd304adbd93d561',
+    user: {
+      nombre: 'Adrian',
+      apellido: 'Adrian',
+      edad: 1,
+      avatar: './src/public/images/1678170992823.jpg',
+      username: 'aabadin@gmail.com',
+      _id: '640554b74d62019f58650c8b'
+    },
+    products: [
+      {
+        name: 'PLancha',
+        price: 1,
+        rate: 1,
+        description: 'PLANCHA',
+        _id: '6407c6ca560671c828e11ed1',
+        createdAt: '2023-03-07T23:20:42.747Z',
+        updatedAt: '2023-03-07T23:20:42.747Z',
+        __v: 0
+      },
+      {
+        price: 1,
+        rate: 1,
+        _id: '6407c6f4fbfd28b1f5349b79',
+        createdAt: '2023-03-07T23:21:24.224Z',
+        updatedAt: '2023-03-07T23:21:24.224Z',
+        __v: 0
+      }
+    ],
+    createdAt: '2023-03-09T17:46:14.021Z',
+    updatedAt: '2023-03-09T17:46:17.909Z',
+    __v: 1
+  },
+  timestamp: '2023-03-09T17:53:14.598Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T19:14:09.991Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' }
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T19:04:19.020Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart DOESNT exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T19:14:09.991Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' }
+  },
+  timestamp: '2023-03-09T19:04:19.021Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Products displayed',
+  products: {
+    _id: '640a2db305698cc369b6445c',
+    user: {
+      nombre: 'Adrian',
+      apellido: 'Adrian',
+      edad: 1,
+      avatar: './src/public/images/1678170992823.jpg',
+      username: 'aabadin@gmail.com',
+      _id: '640554b74d62019f58650c8b'
+    },
+    products: [
+      {
+        name: 'PLancha',
+        price: 1,
+        rate: 1,
+        description: 'PLANCHA',
+        _id: '6407c6ca560671c828e11ed1',
+        createdAt: '2023-03-07T23:20:42.747Z',
+        updatedAt: '2023-03-07T23:20:42.747Z',
+        __v: 0
+      }
+    ],
+    createdAt: '2023-03-09T19:04:19.066Z',
+    updatedAt: '2023-03-09T19:04:19.066Z',
+    __v: 0
+  },
+  timestamp: '2023-03-09T19:04:31.697Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  message: {
+    level: 'warn',
+    session: Session {
+      cookie: {
+        path: '/',
+        _expires: 2023-03-09T22:44:14.889Z,
+        originalMaxAge: 600000,
+        httpOnly: true
+      },
+      passport: { user: '640554b74d62019f58650c8b' }
+    }
+  },
+  level: 'debug',
+  timestamp: '2023-03-09T22:34:23.423Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Cart DOESNT exists',
+  session: Session {
+    cookie: {
+      path: '/',
+      _expires: 2023-03-09T22:44:14.889Z,
+      originalMaxAge: 600000,
+      httpOnly: true
+    },
+    passport: { user: '640554b74d62019f58650c8b' }
+  },
+  timestamp: '2023-03-09T22:34:23.424Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'debug',
+  message: 'Products displayed',
+  products: {
+    _id: '640a5eef2403326efca76b8a',
+    user: {
+      nombre: 'Adrian',
+      apellido: 'Adrian',
+      edad: 1,
+      avatar: './src/public/images/1678170992823.jpg',
+      username: 'aabadin@gmail.com',
+      _id: '640554b74d62019f58650c8b'
+    },
+    products: [
+      {
+        name: 'PLancha',
+        price: 1,
+        rate: 1,
+        description: 'PLANCHA',
+        _id: '6407c6ca560671c828e11ed1',
+        createdAt: '2023-03-07T23:20:42.747Z',
+        updatedAt: '2023-03-07T23:20:42.747Z',
+        __v: 0
+      }
+    ],
+    createdAt: '2023-03-09T22:34:23.476Z',
+    updatedAt: '2023-03-09T22:34:23.476Z',
+    __v: 0
+  },
+  timestamp: '2023-03-09T22:34:35.066Z',
+  label: 'e-Commerce Backend Debuger'
+}

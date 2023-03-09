@@ -1,6 +1,7 @@
 import dotenv from 'dotenv'
 import mongoose,{Schema} from 'mongoose'
 import logger from '../helper/LoggerConfig.js'
+import { CartSchema } from './Schemas.js'
 dotenv.config()
 //const objectLogger = require('../configurations/log4js.config')
 //const mongoose = require('mongoose')
@@ -12,6 +13,7 @@ const UserSchema = new Schema({
     edad:{type:Number},
     phone:{type:String},
     adress:{type:String},
-    avatar:{type:String}
+    avatar:{type:String},
+    carts:[{type:String}]
   })
 export default UserSchema

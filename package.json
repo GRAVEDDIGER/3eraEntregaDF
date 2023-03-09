@@ -5,7 +5,8 @@
   "main": "./src/app.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon ."
+    "start": "nodemon .",
+    "twilio": "nodemon ./src/helper/twilio.js"
   },
   "keywords": [],
   "author": "",
@@ -22,8 +23,10 @@
     "mongoose": "^7.0.0",
     "morgan": "^1.10.0",
     "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.9.1",
     "passport": "^0.6.0",
     "passport-fast-config": "^1.0.7-b",
+    "twilio": "^4.8.0",
     "winston": "^3.8.2"
   },
   "devDependencies": {
