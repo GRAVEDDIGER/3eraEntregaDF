@@ -13,7 +13,6 @@ if ("cart" in req.session){
  const response= await DAO.addCart(req,dataProduct,req.session.cart)
   logger.debug.debug({level:"warn",message:"Cart exists",session:req.session});
   await req.session.save()
-  console.log(response)
   res.redirect("/viewProducts")
 }else {
   logger.debug.debug({level:"warn",message:"Cart DOESNT exists",session:req.session});

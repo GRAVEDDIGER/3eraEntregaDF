@@ -1,6 +1,6 @@
 //IMPORTS
 import Session from "express-session"
-import passportConfigBuilder from "passport-fast-config"
+import pkg from "passport-fast-config"
 import MongoStore from "connect-mongo"
 import dotenv from "dotenv"
 import flash from "connect-flash"
@@ -10,7 +10,8 @@ import {morganWinston} from "../helper/CustomMorgan.js"
 import {handleConfig} from "../configurations/handlebarsConfig.js"
 import passport from "passport"
 import mongoose,{Schema} from "mongoose"
-
+const passportConfigBuilder=pkg.default
+console.log(passportConfigBuilder)
 //import {routes} from "../routes/routes.js"
 //import login from "../routes/login.js"
 import routes from '../routes/routes.js'
@@ -30,7 +31,7 @@ export const middleWareLoader =async(express,app)=>{
     app.use(express.json())
     app.use(express.urlencoded({extends:false}))
     app.use(sessionMiddleware)
-    const passportObject=await passportConfigBuilder(await UserSchema,"MONGO").buildLocalConfig()
+    const passportObject=(await passportConfigBuilder({db:process.env.MONGOURL,dbSchema:UserSchema.obj},"MONGO")).buildLocalConfig()
     app.use(passport.initialize())
     app.use(passport.session())
     app.use(flash())

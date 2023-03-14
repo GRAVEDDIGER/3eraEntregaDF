@@ -1,0 +1,34 @@
+{
+  level: 'error',
+  error: Error: Db param should be a mongoose schema or a configuration object containing the keys db and dbSchema {db:string dbSchema {Schema definition}}
+      at /run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/services/selectorDAO.js:62:27
+      at Generator.next (<anonymous>)
+      at /run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/services/selectorDAO.js:8:71
+      at new Promise (<anonymous>)
+      at __awaiter (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/services/selectorDAO.js:4:12)
+      at DAOSelector (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/services/selectorDAO.js:23:12)
+      at /run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/index.js:29:58
+      at Generator.next (<anonymous>)
+      at /run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/index.js:8:71
+      at new Promise (<anonymous>),
+  message: 'Imposible to create instance',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-14T22:31:12.483Z'
+}
+{
+  level: 'error',
+  error: Error: Db param should be a mongoose schema or a configuration object containing the keys db and dbSchema {db:string dbSchema {Schema definition}}
+      at /run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/services/selectorDAO.js:62:27
+      at Generator.next (<anonymous>)
+      at /run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/services/selectorDAO.js:8:71
+      at new Promise (<anonymous>)
+      at __awaiter (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/services/selectorDAO.js:4:12)
+      at DAOSelector (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/services/selectorDAO.js:23:12)
+      at /run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/index.js:29:58
+      at Generator.next (<anonymous>)
+      at /run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/index.js:8:71
+      at new Promise (<anonymous>),
+  message: 'Imposible to create instance',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-14T22:31:12.508Z'
+}

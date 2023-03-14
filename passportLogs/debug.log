@@ -3160,3 +3160,92 @@
   label: 'Logged by passport-fast-config',
   timestamp: '2023-03-09T22:35:39.449Z'
 }
+{
+  level: 'debug',
+  message: 'Login Local Strategy',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-14T22:40:43.975Z'
+}
+{
+  level: 'debug',
+  message: 'findByUserName',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-14T22:40:44.064Z'
+}
+{
+  level: 'debug',
+  message: 'Login User Data',
+  data: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-14T22:40:44.068Z'
+}
+{
+  level: 'debug',
+  message: 'serializeUser',
+  data: new ObjectId("640554b74d62019f58650c8b"),
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-14T22:40:44.205Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-14T22:40:44.836Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-14T22:40:45.050Z'
+}
