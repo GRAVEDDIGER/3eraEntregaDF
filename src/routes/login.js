@@ -10,6 +10,9 @@ router.get("/failed",(req,res)=>{
     
     res.render("login",{isError:true,message:req.flash("error")[0]})
 })
+
+router.get("/goa",passport.authenticate("google",{scope:["profile","email"]}))
+
 router.post("/",passport.authenticate("login",{successRedirect:"/home" ,failureRedirect:"/login/failed",failureFlash:true}))
 
 export default router

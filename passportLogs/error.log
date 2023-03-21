@@ -32,3 +32,64 @@
   label: 'Logged by passport-fast-config',
   timestamp: '2023-03-14T22:31:12.508Z'
 }
+{
+  level: 'error',
+  method: 'Login and Register GoogleoAuth',
+  message: TypeError: Cannot read properties of undefined (reading 'birthday')
+      at C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\passport-fast-config\strategies\oAuth2.js:33:167
+      at Generator.next (<anonymous>)
+      at fulfilled (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\passport-fast-config\strategies\oAuth2.js:5:58)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5),
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T04:36:29.996Z'
+}
+{
+  level: 'error',
+  method: 'Login and Register GoogleoAuth',
+  message: TypeError: Cannot read properties of undefined (reading 'id')
+      at C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\passport-fast-config\strategies\oAuth2.js:33:152
+      at Generator.next (<anonymous>)
+      at fulfilled (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\passport-fast-config\strategies\oAuth2.js:5:58)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5),
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:04:03.526Z'
+}
+{
+  level: 'error',
+  method: 'Login and Register GoogleoAuth',
+  message: TypeError: Cannot read properties of undefined (reading '_json')
+      at C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\passport-fast-config\strategies\oAuth2.js:33:142
+      at Generator.next (<anonymous>)
+      at fulfilled (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\passport-fast-config\strategies\oAuth2.js:5:58)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5),
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:09:46.611Z'
+}
+{
+  level: 'error',
+  method: 'Login and Register GoogleoAuth',
+  message: TypeError: Cannot read properties of undefined (reading '0')
+      at C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\passport-fast-config\strategies\oAuth2.js:32:71
+      at Generator.next (<anonymous>)
+      at C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\passport-fast-config\strategies\oAuth2.js:8:71
+      at new Promise (<anonymous>)
+      at __awaiter (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\passport-fast-config\strategies\oAuth2.js:4:12)
+      at Strategy.loginAndRegister [as _verify] (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\passport-fast-config\strategies\oAuth2.js:30:86)
+      at C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\passport-oauth2\lib\strategy.js:196:24
+      at C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\passport-google-oauth20\lib\strategy.js:122:5
+      at passBackControl (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\oauth\lib\oauth2.js:134:9)
+      at IncomingMessage.<anonymous> (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\oauth\lib\oauth2.js:157:7),
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:23:44.140Z'
+}
+{
+  level: 'error',
+  method: 'Login and Register GoogleoAuth',
+  message: ReferenceError: fetch is not defined
+      at C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\passport-fast-config\strategies\oAuth2.js:33:13
+      at Generator.next (<anonymous>)
+      at fulfilled (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\passport-fast-config\strategies\oAuth2.js:5:58)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5),
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T06:50:08.938Z'
+}

@@ -31,7 +31,12 @@ export const middleWareLoader =async(express,app)=>{
     app.use(express.json())
     app.use(express.urlencoded({extends:false}))
     app.use(sessionMiddleware)
-    const passportObject=(await passportConfigBuilder({db:process.env.MONGOURL,dbSchema:UserSchema.obj},"MONGO")).buildLocalConfig()
+    const passportObject=(await passportConfigBuilder({db:process.env.MONGOURL,dbSchema:UserSchema.obj},"MONGO"))
+        .GoogleoAuth({
+            clientID:"781852376959-1rqb531406erb9hplkvcrg7rmhdjp0hb.apps.googleusercontent.com",
+            clientSecret:"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",
+            callbackURL:"http://localhost:8080/auth/google/callback"},false)
+        .buildLocalConfig()
     app.use(passport.initialize())
     app.use(passport.session())
     app.use(flash())
@@ -47,6 +52,7 @@ export const middleWareLoader =async(express,app)=>{
     app.use("/addcart",routes.addcart)
     app.use("/viewcart",routes.viewcart)
     app.use("/sale",routes.sales)
+    app.get("/auth/google/callback",passport.authenticate("google",{failureRedirect:"/login/failure",successRedirect:"/viewProducts"}))
     
     //app.use("/",routes)
     handleConfig(app)   

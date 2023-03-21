@@ -3249,3 +3249,1271 @@
   label: 'Logged by passport-fast-config',
   timestamp: '2023-03-14T22:40:45.050Z'
 }
+{
+  level: 'debug',
+  message: 'findByUserName',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T04:27:27.363Z'
+}
+{
+  message: {
+    level: 'debug',
+    method: 'Login and Register GoogleoAuth',
+    data: {
+      carts: [],
+      _id: new ObjectId("640554b74d62019f58650c8b"),
+      nombre: 'Adrian',
+      apellido: 'Adrian',
+      edad: 1,
+      alias: '1',
+      avatar: './src/public/images/1678170992823.jpg',
+      username: 'aabadin@gmail.com',
+      password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+      isVerified: true,
+      __v: 0
+    }
+  },
+  level: 'debug',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T04:27:27.371Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T04:27:27.598Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T04:27:28.183Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T04:31:18.928Z'
+}
+{
+  level: 'debug',
+  message: 'findByUserName',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T04:36:29.982Z'
+}
+{
+  level: 'debug',
+  message: 'findByUserName',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T04:37:11.302Z'
+}
+{
+  message: {
+    level: 'debug',
+    method: 'Login and Register GoogleoAuth',
+    data: {
+      carts: [],
+      _id: new ObjectId("640554b74d62019f58650c8b"),
+      nombre: 'Adrian',
+      apellido: 'Adrian',
+      edad: 1,
+      alias: '1',
+      avatar: './src/public/images/1678170992823.jpg',
+      username: 'aabadin@gmail.com',
+      password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+      isVerified: true,
+      __v: 0
+    },
+    profile: {
+      access_token: 'ya29.a0AVvZVsoZ6N99o7Aj_qpQ2A4WnYZlfCt3sMx_g5vh7P2SZqz8JS1EIcP5V0MMDn5R1DLQ1NYhiO-WFFA8_VgqKQs3HN0_glX8r10PGDKLXsmqJ057EkbekY5dXEGMKVg_TPSBenA7qdBYCscZhmdvqqni9kYtaCgYKATkSARESFQGbdwaIycBe69yovo0qZTy5OQtmvg0163',
+      expires_in: 3599,
+      scope: 'https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email openid',
+      token_type: 'Bearer',
+      id_token: 'eyJhbGciOiJSUzI1NiIsImtpZCI6Ijk4NmVlOWEzYjc1MjBiNDk0ZGY1NGZlMzJlM2U1YzRjYTY4NWM4OWQiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI3ODE4NTIzNzY5NTktMXJxYjUzMTQwNmVyYjlocGxrdmNyZzdybWhkanAwaGIuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI3ODE4NTIzNzY5NTktMXJxYjUzMTQwNmVyYjlocGxrdmNyZzdybWhkanAwaGIuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMDYxMjQxOTcyMjAyNTM5OTMyNzUiLCJlbWFpbCI6ImFhYmFkaW5AZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJlbDBsQTlEbFpKbkVkNE12dHh4QkpnIiwibmFtZSI6IkFkcmlhbiBBYmFkaW4iLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUdObXl4WmljYjdHUnh4WjJGNHYxVmhZalY2U0Y3NXFzdGpWT0ZKMGZWT29jZz1zOTYtYyIsImdpdmVuX25hbWUiOiJBZHJpYW4iLCJmYW1pbHlfbmFtZSI6IkFiYWRpbiIsImxvY2FsZSI6ImVzIiwiaWF0IjoxNjc5MzczNDMxLCJleHAiOjE2NzkzNzcwMzF9.F2d3Cf63XAi0OCIyZh26optLAbB7JF6CFkkvpGKSlDMGV9zt06CFjyZUASL48BdQaLfB86KJCeBvsDSKcQ44OUm8So0Lt0JH73QhcFE_uHVebopLhOqz9o-zczgDgtMHYgOeZ9pmpZGpFJzno-nRl7dLknvQWJkchYfnirETCpX9WYqxRP74ieK2B8xc31hyRy8cQrBdtYRzFcTTRfF5uo6K20JZWepX2Z0nFA00SoUfbgpZEhFau0v_XAgWfZ7HIcvLAzDrq8o4Qc-1CAc9pU4knoqXbhiHAV9yxgQ0z3dyH5oL089IrPkpYN1EVXC2y6EJLMGp5T2tXCWtlMNC1g'
+    }
+  },
+  level: 'debug',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T04:37:11.315Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T04:37:11.551Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T04:37:12.272Z'
+}
+{
+  level: 'debug',
+  message: 'findByUserName',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:01:40.021Z'
+}
+{
+  message: {
+    level: 'debug',
+    method: 'Login and Register GoogleoAuth',
+    data: {
+      carts: [],
+      _id: new ObjectId("640554b74d62019f58650c8b"),
+      nombre: 'Adrian',
+      apellido: 'Adrian',
+      edad: 1,
+      alias: '1',
+      avatar: './src/public/images/1678170992823.jpg',
+      username: 'aabadin@gmail.com',
+      password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+      isVerified: true,
+      __v: 0
+    },
+    profile: {
+      access_token: 'ya29.a0AVvZVsreMz4-XV_SOxY-rZLJZfcr-prFivS1ujEEOQ1bEbLpT2mfblOVNlR5T_rug2RO6ZkxpoF5VHr3AkJd3TFRU8F1LoOPajDVv71Y9_S1WxUmZ7IXSOg6QIvyl_bz1UZobse2uly89BiQ4iqD2S45cQbSaCgYKAQkSARESFQGbdwaIdamsWT2kIABEgmaDskH9Vg0163',
+      expires_in: 3599,
+      scope: 'https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email openid',
+      token_type: 'Bearer',
+      id_token: 'eyJhbGciOiJSUzI1NiIsImtpZCI6Ijk4NmVlOWEzYjc1MjBiNDk0ZGY1NGZlMzJlM2U1YzRjYTY4NWM4OWQiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI3ODE4NTIzNzY5NTktMXJxYjUzMTQwNmVyYjlocGxrdmNyZzdybWhkanAwaGIuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI3ODE4NTIzNzY5NTktMXJxYjUzMTQwNmVyYjlocGxrdmNyZzdybWhkanAwaGIuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMDYxMjQxOTcyMjAyNTM5OTMyNzUiLCJlbWFpbCI6ImFhYmFkaW5AZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJkb0RFSjIxLW5rdW1fMnhGNFdYTmdRIiwibmFtZSI6IkFkcmlhbiBBYmFkaW4iLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUdObXl4WmljYjdHUnh4WjJGNHYxVmhZalY2U0Y3NXFzdGpWT0ZKMGZWT29jZz1zOTYtYyIsImdpdmVuX25hbWUiOiJBZHJpYW4iLCJmYW1pbHlfbmFtZSI6IkFiYWRpbiIsImxvY2FsZSI6ImVzIiwiaWF0IjoxNjc5Mzc0ODk5LCJleHAiOjE2NzkzNzg0OTl9.G3B-t5oyVG7gXT37NIhCFjft-XZLsN-0TcCB5acieF4tiJOsCQGKSxQN1dL37mKbWHBH5c5OSsupM-LdQLiJbppb4vX5oBh_RsoVxt6wpyWCFtXug_w8GnfQf2Apy7nfpBwm-z8VaoAAoMWSdf2_YjM-6m0TVmOSGbQh3rnmXUpOAFpHuCR2NSkw28tE-6CNvA_qFfHxDW3jTXCbH6C8qupDpceWHZKCXzFyiVgzdkS4tFGLQje8hHP9zFtylDR-faa2kxZ-QtcsMiTn8HvF4mhx17I7Fx-dMne5BYZbZGDo75SZIMJASBzdyVxAQsw1NXehW8EGioE9kJwAOIZ6lQ'
+    }
+  },
+  level: 'debug',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:01:40.033Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:01:40.321Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:01:41.204Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:03:03.089Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:03:03.330Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:03:05.518Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:04:03.074Z'
+}
+{
+  level: 'debug',
+  message: 'findByUserName',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:04:03.517Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:09:38.766Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:09:39.013Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:09:41.332Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:09:46.206Z'
+}
+{
+  level: 'debug',
+  message: 'findByUserName',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:09:46.600Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:10:09.642Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:10:09.810Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:10:25.301Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:10:25.554Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:10:27.544Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:10:35.934Z'
+}
+{
+  level: 'debug',
+  message: 'findByUserName',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:10:36.461Z'
+}
+{
+  message: {
+    level: 'debug',
+    method: 'Login and Register GoogleoAuth',
+    data: {
+      carts: [],
+      _id: new ObjectId("640554b74d62019f58650c8b"),
+      nombre: 'Adrian',
+      apellido: 'Adrian',
+      edad: 1,
+      alias: '1',
+      avatar: './src/public/images/1678170992823.jpg',
+      username: 'aabadin@gmail.com',
+      password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+      isVerified: true,
+      __v: 0
+    },
+    profile: undefined
+  },
+  level: 'debug',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:10:36.468Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:10:36.689Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:10:37.211Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:13:51.246Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:13:51.504Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:13:53.407Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:13:58.278Z'
+}
+{
+  level: 'debug',
+  message: 'findByUserName',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:13:58.680Z'
+}
+{
+  message: {
+    level: 'debug',
+    method: 'Login and Register GoogleoAuth',
+    data: {
+      carts: [],
+      _id: new ObjectId("640554b74d62019f58650c8b"),
+      nombre: 'Adrian',
+      apellido: 'Adrian',
+      edad: 1,
+      alias: '1',
+      avatar: './src/public/images/1678170992823.jpg',
+      username: 'aabadin@gmail.com',
+      password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+      isVerified: true,
+      __v: 0
+    },
+    profile: undefined
+  },
+  level: 'debug',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:13:58.686Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:13:58.929Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:13:59.518Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:15:05.866Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:15:06.197Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:15:07.799Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:15:12.597Z'
+}
+{
+  level: 'debug',
+  message: 'findByUserName',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:15:13.107Z'
+}
+{
+  message: {
+    level: 'debug',
+    method: 'Login and Register GoogleoAuth',
+    data: {
+      carts: [],
+      _id: new ObjectId("640554b74d62019f58650c8b"),
+      nombre: 'Adrian',
+      apellido: 'Adrian',
+      edad: 1,
+      alias: '1',
+      avatar: './src/public/images/1678170992823.jpg',
+      username: 'aabadin@gmail.com',
+      password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+      isVerified: true,
+      __v: 0
+    },
+    profile: undefined
+  },
+  level: 'debug',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:15:13.113Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:15:13.361Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:15:13.884Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:16:23.064Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:16:23.308Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:16:25.274Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:16:30.377Z'
+}
+{
+  level: 'debug',
+  message: 'findByUserName',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:16:30.921Z'
+}
+{
+  message: {
+    level: 'debug',
+    method: 'Login and Register GoogleoAuth',
+    data: {
+      carts: [],
+      _id: new ObjectId("640554b74d62019f58650c8b"),
+      nombre: 'Adrian',
+      apellido: 'Adrian',
+      edad: 1,
+      alias: '1',
+      avatar: './src/public/images/1678170992823.jpg',
+      username: 'aabadin@gmail.com',
+      password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+      isVerified: true,
+      __v: 0
+    },
+    profile: undefined,
+    email: {
+      id: '106124197220253993275',
+      displayName: 'Adrian Abadin',
+      name: { familyName: 'Abadin', givenName: 'Adrian' },
+      emails: [ { value: 'aabadin@gmail.com', verified: true } ],
+      photos: [
+        {
+          value: 'https://lh3.googleusercontent.com/a/AGNmyxZicb7GRxxZ2F4v1VhYjV6SF75qstjVOFJ0fVOocg=s96-c'
+        }
+      ],
+      provider: 'google',
+      _raw: '{\n' +
+        '  "sub": "106124197220253993275",\n' +
+        '  "name": "Adrian Abadin",\n' +
+        '  "given_name": "Adrian",\n' +
+        '  "family_name": "Abadin",\n' +
+        '  "picture": "https://lh3.googleusercontent.com/a/AGNmyxZicb7GRxxZ2F4v1VhYjV6SF75qstjVOFJ0fVOocg\\u003ds96-c",\n' +
+        '  "email": "aabadin@gmail.com",\n' +
+        '  "email_verified": true,\n' +
+        '  "locale": "es"\n' +
+        '}',
+      _json: {
+        sub: '106124197220253993275',
+        name: 'Adrian Abadin',
+        given_name: 'Adrian',
+        family_name: 'Abadin',
+        picture: 'https://lh3.googleusercontent.com/a/AGNmyxZicb7GRxxZ2F4v1VhYjV6SF75qstjVOFJ0fVOocg=s96-c',
+        email: 'aabadin@gmail.com',
+        email_verified: true,
+        locale: 'es'
+      }
+    }
+  },
+  level: 'debug',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:16:30.929Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:16:31.177Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:16:31.773Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:23:36.645Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:23:36.878Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:23:38.715Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T05:23:43.777Z'
+}
+{
+  level: 'debug',
+  message: 'findByUserName',
+  response: {
+    carts: [],
+    _id: new ObjectId("640554b74d62019f58650c8b"),
+    nombre: 'Adrian',
+    apellido: 'Adrian',
+    edad: 1,
+    alias: '1',
+    avatar: './src/public/images/1678170992823.jpg',
+    username: 'aabadin@gmail.com',
+    password: '$2b$10$kxeIWFsO129C4VP5reOknu2r3vCDlmKKkfjKC39b9rN3ZWMQUl2Pa',
+    isVerified: true,
+    __v: 0
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-21T06:50:08.931Z'
+}
