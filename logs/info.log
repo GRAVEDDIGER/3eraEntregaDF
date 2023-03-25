@@ -6182,3 +6182,90 @@ info: Connected to Mongoose {"label":"e-Commerce Backend Debuger","timestamp":"2
 info: [object Object] {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T10:40:51.108Z"}
 info: GET /viewProducts 304  - 65.915 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T10:40:51.171Z"}
 info: GET /style.css 304  - 8.403 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T10:40:51.431Z"}
+info: Mongo Connected {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:24:44.528Z"}
+info: Server Up in port 8080 {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:24:44.669Z"}
+info: Mongo Connected {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:26:11.244Z"}
+info: Server Up in port 8080 {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:26:11.372Z"}
+info: GET /register 304  - 186.696 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:26:22.132Z"}
+info: GET /style.css 304  - 5.776 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:26:22.484Z"}
+info: GET /favicon.ico 404 150 - 26.117 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:26:23.084Z"}
+info: GET /login/goa 302 0 - 2.697 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:26:25.430Z"}
+info: GET /auth/google/callback?code=4%2F0AVHEtk4ZhQd4-TiMRdAqCcZXM6IT0s4ktmfOmd4kUySUeMwAMHEiiJnBX0JmJTHGIyqxhw&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuser.birthday.read+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuser.phonenumbers.read+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuser.gender.read+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuser.addresses.read&authuser=0&prompt=consent 302 70 - 1255.410 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:26:31.285Z"}
+info: Connected to Mongoose {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:26:31.389Z"}
+info: [object Object] {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:26:31.681Z"}
+info: GET /viewProducts 304  - 324.375 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:26:31.751Z"}
+info: GET /style.css 304  - 3.589 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:26:31.970Z"}
+info: Mongo Connected {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:28:39.217Z"}
+info: Server Up in port 8080 {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:28:39.315Z"}
+info: Mongo Connected {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:29:09.436Z"}
+info: Server Up in port 8080 {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:29:09.641Z"}
+info: GET /login/goa 302 0 - 13.875 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:29:18.124Z"}
+info: GET /auth/google/callback?code=4%2F0AVHEtk6n1AW8D8SD86-cbtyuZ1j1hElfrTLbg1L1TCOYQTLGJDv8U87BT3z1SwMhipRBtA&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuser.birthday.read+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuser.phonenumbers.read+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuser.gender.read+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuser.addresses.read&authuser=0&prompt=consent 302 70 - 1182.375 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:29:23.530Z"}
+info: Connected to Mongoose {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:29:23.631Z"}
+info: [object Object] {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:29:23.911Z"}
+info: GET /viewProducts 304  - 350.486 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:29:24.020Z"}
+info: GET /style.css 304  - 3.824 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:29:24.220Z"}
+info: Mongo Connected {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:30:13.361Z"}
+info: Server Up in port 8080 {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:30:13.466Z"}
+info: GET /login/goa 302 0 - 13.873 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:30:16.014Z"}
+info: GET /auth/google/callback?code=4%2F0AVHEtk6blhRcG8TnKsIgQw6rAIoMa-BoP5BB4Hu_qXlgTZCCz8dooIUAJNnRzdFLGGSUog&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuser.birthday.read+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuser.phonenumbers.read+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuser.gender.read+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuser.addresses.read&authuser=0&prompt=consent 302 70 - 1548.378 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:30:21.663Z"}
+info: Connected to Mongoose {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:30:21.887Z"}
+info: [object Object] {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:30:22.193Z"}
+info: GET /viewProducts 304  - 503.160 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:30:22.430Z"}
+info: GET /style.css 304  - 4.844 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:30:22.686Z"}
+info: Mongo Connected {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:31:46.826Z"}
+info: Server Up in port 8080 {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:31:46.929Z"}
+info: Mongo Connected {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:32:05.248Z"}
+info: Server Up in port 8080 {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:32:05.362Z"}
+info: GET /login/goa 302 0 - 12.959 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:32:07.378Z"}
+info: Mongo Connected {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:33:47.286Z"}
+info: Server Up in port 8080 {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:33:47.378Z"}
+info: GET /register 304  - 69.105 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:34:00.713Z"}
+info: GET /style.css 304  - 8.368 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:34:00.888Z"}
+info: GET /login/goa 302 0 - 6.136 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:34:05.561Z"}
+info: GET /auth/google/callback?code=4%2F0AVHEtk7Jw6WIdtGrFpf09A1umMeMNPNK5ZCi1CMgfARCfVnYbPozwX9FrQNU1OVNtSRKhQ&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuser.birthday.read+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuser.phonenumbers.read+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuser.gender.read+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuser.addresses.read&authuser=0&prompt=consent 302 70 - 1373.397 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:34:13.182Z"}
+info: Connected to Mongoose {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:34:13.325Z"}
+info: [object Object] {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:34:13.763Z"}
+info: GET /viewProducts 304  - 488.988 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:34:13.858Z"}
+info: Mongo Connected {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:42:13.245Z"}
+info: Server Up in port 8080 {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:42:13.379Z"}
+info: GET /login/goa 302 0 - 16.058 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:42:18.481Z"}
+info: GET /auth/google/callback?code=4%2F0AVHEtk4OBCJ0kBvHdXtZ5g5Y_XNDW_G6notxs-sdrGvOfpAXOKFPZyn6YYzaV5JW8B6zdA&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuser.birthday.read+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuser.phonenumbers.read+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuser.gender.read+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuser.addresses.read&authuser=0&prompt=consent 302 70 - 1178.076 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:42:24.823Z"}
+info: Connected to Mongoose {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:42:24.918Z"}
+info: [object Object] {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:42:25.261Z"}
+info: GET /viewProducts 304  - 406.348 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:42:25.365Z"}
+info: GET /style.css 304  - 7.320 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:42:25.726Z"}
+info: Mongo Connected {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:49:20.471Z"}
+info: Server Up in port 8080 {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:49:20.589Z"}
+info: GET /login/goa 302 0 - 14.970 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:49:26.097Z"}
+info: Mongo Connected {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:52:31.158Z"}
+info: Server Up in port 8080 {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:52:31.281Z"}
+info: GET /register 304  - 86.674 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:52:35.793Z"}
+info: GET /style.css 304  - 5.967 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:52:35.840Z"}
+info: GET /login/goa 302 0 - 9.468 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:52:41.907Z"}
+info: Mongo Connected {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:54:21.751Z"}
+info: Server Up in port 8080 {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:54:21.856Z"}
+info: GET /login/goa 302 0 - 7.874 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:54:25.600Z"}
+info: GET /auth/google/callback?code=4%2F0AVHEtk5Q8R_ckx-o4U5lPyKcKfRyxfhDZG9PbWfo2t9aGfSpID5TkciMxJqSHvfL6nm0sg&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcontacts+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuser.birthday.read+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuser.phonenumbers.read+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuser.gender.read+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuser.addresses.read&authuser=0&prompt=consent 302 70 - 1328.655 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:54:30.641Z"}
+info: Connected to Mongoose {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:54:30.768Z"}
+info: [object Object] {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:54:31.066Z"}
+info: GET /viewProducts 304  - 373.719 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:54:31.179Z"}
+info: GET /style.css 304  - 11.359 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:54:31.503Z"}
+info: Mongo Connected {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:56:56.541Z"}
+info: Server Up in port 8080 {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:56:56.659Z"}
+info: GET /login/goa 302 0 - 13.851 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T14:57:01.796Z"}
+info: Mongo Connected {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T15:01:56.716Z"}
+info: Server Up in port 8080 {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T15:01:56.824Z"}
+info: GET /register 304  - 93.105 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T15:02:03.307Z"}
+info: GET /style.css 304  - 4.662 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T15:02:03.465Z"}
+info: GET /login/goa 302 0 - 14.185 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T15:02:08.176Z"}
+info: GET /auth/google/callback?code=4/0AVHEtk6Jop8Tf4t8nee4drwUoP6yPCJATbsklTwvik6RmaKohWctFY4aF-RlJdEZ_rih1A&scope=email%20profile%20https://www.googleapis.com/auth/contacts.readonly%20https://www.googleapis.com/auth/directory.readonly%20openid%20https://www.googleapis.com/auth/userinfo.profile%20https://www.googleapis.com/auth/userinfo.email%20https://www.googleapis.com/auth/contacts%20https://www.googleapis.com/auth/user.birthday.read%20https://www.googleapis.com/auth/user.phonenumbers.read%20https://www.googleapis.com/auth/user.gender.read%20https://www.googleapis.com/auth/user.addresses.read&authuser=0&prompt=consent 302 70 - 1138.584 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T15:02:29.736Z"}
+info: Connected to Mongoose {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T15:02:29.829Z"}
+info: [object Object] {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T15:02:30.113Z"}
+info: GET /viewProducts 304  - 328.515 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T15:02:30.194Z"}
+info: GET /login/goa 302 0 - 3.947 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T15:04:38.986Z"}
+info: GET /auth/google/callback?code=4%2F0AVHEtk5uis0drG9rWQPRnvzv1-FnlcoN2R68AmL3ecG9cVp2acQHBOpGXjUDBNZXu37WcQ&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcontacts+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdirectory.readonly+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcontacts.readonly+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuser.birthday.read+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuser.phonenumbers.read+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuser.gender.read+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuser.addresses.read&authuser=0&prompt=consent 302 70 - 1847.849 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T15:04:45.211Z"}
+info: Connected to Mongoose {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T15:04:45.301Z"}
+info: [object Object] {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T15:04:45.338Z"}
+info: GET /viewProducts 304  - 63.804 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T15:04:45.403Z"}
+info: GET /style.css 304  - 1.684 ms {"label":"e-Commerce Backend Debuger","timestamp":"2023-03-25T15:04:45.591Z"}
