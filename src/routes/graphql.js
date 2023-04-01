@@ -1,38 +1,52 @@
-import express from "express"
 import { buildSchema } from "graphql";
 import ProductsDao from "../services/ProductsDao.js";
-import { graphqlHTTP } from "express-graphql";
 const DAO=await ProductsDao()
-const app=express()
-const schema=buildSchema(`
+export const schema=buildSchema(`
     type Product{
         name: String
         price:Int
         rate:Int
         description:String
-        id:String
+        _id:String
     }
-    type query{
+    type Query{
         products:[Product]
         productById(id: String):Product
     }
-    type mutation{
+    type Mutation {
         addProduct(name:String,price:Int,rate:Int,description:String):Product
+        updateProduct(name:String,price:Int,rate:Int,description:String,id:String):Product
+        deleteProduct(id: String):Product
     }        
 `)
-const root={
-    clients:async ()=>{const response =await DAO.showProducts()
-    if (response.ok) return response.response
+export const root={
+    products:async ()=>{const response =await DAO.showProducts()
+        if (response.ok) return JSON.parse(response.response)
+        },
+    productById:async (id)=>{
+        return DAO.showProduct(id.id).then(res=>{console.log(res)
+            console.log(res.response)
+        return res.response
+        }).catch(e=>console.log(e))
+    
     },
-    clientsById:async (id)=>{
-        return await DAO.showProduct(id)
+    addProduct:async(data)=>{
+        return await DAO.addProduct(data).then(res=>{console.log(res)
+        console.log(data)
+        return res.response.data
+        }).catch(e=>console.log(e))
+},
+    updateProduct:async(data)=>{
+        const {id}=data
+        return await DAO.updateProduct(data,id).then(res=>{
+            console.log(res)
+            return res.response
+        }).catch(e=>console.log(e))
     },
-    addProduct:async(name,price,rate,description)=>{
-       return await  DAO.addProduct({name,price,rate,description})
-    } 
+    deleteProduct: async(id)=>{ 
+        return await DAO.deleteProduct(id.id).then(res=>{
+            return res.response
+        }).catch(e=>console.log(e))
+    }
 }
 
-app.use("/graphql",graphqlHTTP({
-    schema,
-    rootValue:root
-}))

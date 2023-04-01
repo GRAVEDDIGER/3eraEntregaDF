@@ -1,18 +1,30 @@
 import { Router } from "express";
-import ProductsDao from "../services/ProductsDao.js";
+import axios from "axios"
 const routes=Router()
 routes.get("/",async (req,res)=>{
-    const DAO = await ProductsDao()
-    const data = await DAO.showProducts()
-   let products = JSON.parse(data.response)
-    res.render("showproducts",{products:products})})
+    const products = await axios.post('http://localhost:8080/gql', {
+        query: `
+          {
+            products {
+              name
+              price
+              rate
+              description
+            }
+          }
+        `
+      });
+    res.render("showproducts",{products:products.data.data.products})})
 routes.get("/:id",async (req,res)=>{
 const {id}=req.params
-console.log(id)
-const DAO =await ProductsDao()
-console.log(DAO)
-const data = await DAO.showProduct(id)
-console.log(data)
-res.render("showproduct",data.response)
+const products = await axios.post('http://localhost:8080/gql', {
+    query: `
+      {
+        productById (id:"${id}") {name,price,rate,description} 
+      }
+    `
+  });
+
+res.render("showproduct",products.data.data.productById)
 })
 export default routes

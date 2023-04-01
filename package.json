@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "nodemon .",
-    "twilio": "nodemon ./src/helper/twilio.js"
+    "test": "vitest run --coverage"
   },
   "keywords": [],
   "author": "",
@@ -33,7 +33,8 @@
   },
   "devDependencies": {
     "eslint": "^8.35.0",
-    "standard": "^17.0.0"
+    "standard": "^17.0.0",
+    "vitest": "^0.29.8"
   },
   "eslintConfig": {
     "extends": "./node_modules/standart/eslintrc.json"

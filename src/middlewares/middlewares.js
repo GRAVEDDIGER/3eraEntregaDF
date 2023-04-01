@@ -9,7 +9,8 @@ import morgan from "morgan"
 import {morganWinston} from "../helper/CustomMorgan.js"
 import {handleConfig} from "../configurations/handlebarsConfig.js"
 import passport from "passport"
-import "../routes/graphql.js"
+import {schema,root} from "../routes/graphql.js"
+import { graphqlHTTP } from "express-graphql"
 import mongoose,{Schema} from "mongoose"
 const passportConfigBuilder=pkg.default
 console.log(passportConfigBuilder)
@@ -43,6 +44,10 @@ export const middleWareLoader =async(express,app)=>{
     app.use(flash())
     app.use(morgan(morganWinston))
     app.use(express.static("./src/public"))
+    app.use("/gql",graphqlHTTP({
+        schema,
+        rootValue:root
+    }))
     app.use("/login",routes.login)
     app.use("/register",routes.register)
     app.use("/home",routes.home)
