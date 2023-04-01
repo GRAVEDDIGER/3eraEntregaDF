@@ -178,3 +178,219 @@
   timestamp: '2023-04-01T06:51:51.127Z',
   label: 'e-Commerce Backend Debuger'
 }
+{
+  level: 'error',
+  message: 'Error on Query',
+  error: CastError: Cast to ObjectId failed for value "{ id: '6407c6ca560671c828e11ed1' }" (type Object) at path "_id" for model "ProductCollection"
+      at ObjectId.cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schema\objectid.js:248:11)
+      at ObjectId.SchemaType.applySetters (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schematype.js:1202:12)
+      at ObjectId.SchemaType.castForQuery (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schematype.js:1613:15)
+      at cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\cast.js:297:34)
+      at model.Query.Query.cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:4790:12)
+      at model.Query.Query._castConditions (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:2177:10)
+      at model.Query._findOne (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:2465:8)
+      at model.Query.exec (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:4321:28)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async Object.showProduct (file:///C:/Users/aabadin/Documents/code/tercera%20entrega%20desafio%20final/src/services/ProductsDao.js:53:73) {
+    stringValue: `"{ id: '6407c6ca560671c828e11ed1' }"`,
+    messageFormat: undefined,
+    kind: 'ObjectId',
+    value: { id: '6407c6ca560671c828e11ed1' },
+    path: '_id',
+    reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+        at new ObjectId (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\node_modules\bson\lib\bson.cjs:2014:23)
+        at castObjectId (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\cast\objectid.js:25:12)
+        at ObjectId.cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schema\objectid.js:246:12)
+        at ObjectId.SchemaType.applySetters (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schematype.js:1202:12)
+        at ObjectId.SchemaType.castForQuery (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schematype.js:1613:15)
+        at cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\cast.js:297:34)
+        at model.Query.Query.cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:4790:12)
+        at model.Query.Query._castConditions (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:2177:10)
+        at model.Query._findOne (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:2465:8)
+        at model.Query.exec (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:4321:28),
+    valueType: 'Object',
+    model: Model { ProductCollection }
+  },
+  timestamp: '2023-04-01T11:58:30.724Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'error',
+  message: 'Error on Query',
+  error: CastError: Cast to ObjectId failed for value "{ id: '6407c6ca560671c828e11ed1' }" (type Object) at path "_id" for model "ProductCollection"
+      at ObjectId.cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schema\objectid.js:248:11)
+      at ObjectId.SchemaType.applySetters (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schematype.js:1202:12)
+      at ObjectId.SchemaType.castForQuery (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schematype.js:1613:15)
+      at cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\cast.js:297:34)
+      at model.Query.Query.cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:4790:12)
+      at model.Query.Query._castConditions (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:2177:10)
+      at model.Query._findOne (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:2465:8)
+      at model.Query.exec (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:4321:28)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async Object.showProduct (file:///C:/Users/aabadin/Documents/code/tercera%20entrega%20desafio%20final/src/services/ProductsDao.js:54:73) {
+    stringValue: `"{ id: '6407c6ca560671c828e11ed1' }"`,
+    messageFormat: undefined,
+    kind: 'ObjectId',
+    value: { id: '6407c6ca560671c828e11ed1' },
+    path: '_id',
+    reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+        at new ObjectId (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\node_modules\bson\lib\bson.cjs:2014:23)
+        at castObjectId (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\cast\objectid.js:25:12)
+        at ObjectId.cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schema\objectid.js:246:12)
+        at ObjectId.SchemaType.applySetters (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schematype.js:1202:12)
+        at ObjectId.SchemaType.castForQuery (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schematype.js:1613:15)
+        at cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\cast.js:297:34)
+        at model.Query.Query.cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:4790:12)
+        at model.Query.Query._castConditions (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:2177:10)
+        at model.Query._findOne (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:2465:8)
+        at model.Query.exec (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:4321:28),
+    valueType: 'Object',
+    model: Model { ProductCollection }
+  },
+  timestamp: '2023-04-01T12:02:48.360Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'error',
+  message: 'Error on Query',
+  error: CastError: Cast to ObjectId failed for value "{ id: '6407c6ca560671c828e11ed1' }" (type Object) at path "_id" for model "ProductCollection"
+      at ObjectId.cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schema\objectid.js:248:11)
+      at ObjectId.SchemaType.applySetters (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schematype.js:1202:12)
+      at ObjectId.SchemaType.castForQuery (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schematype.js:1613:15)
+      at cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\cast.js:297:34)
+      at model.Query.Query.cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:4790:12)
+      at model.Query.Query._castConditions (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:2177:10)
+      at model.Query._findOne (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:2465:8)
+      at model.Query.exec (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:4321:28)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async Object.showProduct (file:///C:/Users/aabadin/Documents/code/tercera%20entrega%20desafio%20final/src/services/ProductsDao.js:54:73) {
+    stringValue: `"{ id: '6407c6ca560671c828e11ed1' }"`,
+    messageFormat: undefined,
+    kind: 'ObjectId',
+    value: { id: '6407c6ca560671c828e11ed1' },
+    path: '_id',
+    reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+        at new ObjectId (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\node_modules\bson\lib\bson.cjs:2014:23)
+        at castObjectId (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\cast\objectid.js:25:12)
+        at ObjectId.cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schema\objectid.js:246:12)
+        at ObjectId.SchemaType.applySetters (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schematype.js:1202:12)
+        at ObjectId.SchemaType.castForQuery (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schematype.js:1613:15)
+        at cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\cast.js:297:34)
+        at model.Query.Query.cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:4790:12)
+        at model.Query.Query._castConditions (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:2177:10)
+        at model.Query._findOne (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:2465:8)
+        at model.Query.exec (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:4321:28),
+    valueType: 'Object',
+    model: Model { ProductCollection }
+  },
+  timestamp: '2023-04-01T12:08:01.414Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'error',
+  message: 'Error on Query',
+  error: CastError: Cast to ObjectId failed for value "{ id: '6407c6ca560671c828e11ed1' }" (type Object) at path "_id" for model "ProductCollection"
+      at ObjectId.cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schema\objectid.js:248:11)
+      at ObjectId.SchemaType.applySetters (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schematype.js:1202:12)
+      at ObjectId.SchemaType.castForQuery (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schematype.js:1613:15)
+      at cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\cast.js:297:34)
+      at model.Query.Query.cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:4790:12)
+      at model.Query.Query._castConditions (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:2177:10)
+      at model.Query._findOne (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:2465:8)
+      at model.Query.exec (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:4321:28)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async Object.showProduct (file:///C:/Users/aabadin/Documents/code/tercera%20entrega%20desafio%20final/src/services/ProductsDao.js:54:73) {
+    stringValue: `"{ id: '6407c6ca560671c828e11ed1' }"`,
+    messageFormat: undefined,
+    kind: 'ObjectId',
+    value: { id: '6407c6ca560671c828e11ed1' },
+    path: '_id',
+    reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+        at new ObjectId (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\node_modules\bson\lib\bson.cjs:2014:23)
+        at castObjectId (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\cast\objectid.js:25:12)
+        at ObjectId.cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schema\objectid.js:246:12)
+        at ObjectId.SchemaType.applySetters (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schematype.js:1202:12)
+        at ObjectId.SchemaType.castForQuery (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schematype.js:1613:15)
+        at cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\cast.js:297:34)
+        at model.Query.Query.cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:4790:12)
+        at model.Query.Query._castConditions (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:2177:10)
+        at model.Query._findOne (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:2465:8)
+        at model.Query.exec (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:4321:28),
+    valueType: 'Object',
+    model: Model { ProductCollection }
+  },
+  timestamp: '2023-04-01T12:08:11.437Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'error',
+  message: 'Error on Query',
+  error: CastError: Cast to ObjectId failed for value "{ id: '6407c6ca560671c828e11ed1' }" (type Object) at path "_id" for model "ProductCollection"
+      at ObjectId.cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schema\objectid.js:248:11)
+      at ObjectId.SchemaType.applySetters (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schematype.js:1202:12)
+      at ObjectId.SchemaType.castForQuery (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schematype.js:1613:15)
+      at cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\cast.js:297:34)
+      at model.Query.Query.cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:4790:12)
+      at model.Query.Query._castConditions (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:2177:10)
+      at model.Query._findOne (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:2465:8)
+      at model.Query.exec (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:4321:28)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async Object.showProduct (file:///C:/Users/aabadin/Documents/code/tercera%20entrega%20desafio%20final/src/services/ProductsDao.js:54:73) {
+    stringValue: `"{ id: '6407c6ca560671c828e11ed1' }"`,
+    messageFormat: undefined,
+    kind: 'ObjectId',
+    value: { id: '6407c6ca560671c828e11ed1' },
+    path: '_id',
+    reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+        at new ObjectId (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\node_modules\bson\lib\bson.cjs:2014:23)
+        at castObjectId (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\cast\objectid.js:25:12)
+        at ObjectId.cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schema\objectid.js:246:12)
+        at ObjectId.SchemaType.applySetters (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schematype.js:1202:12)
+        at ObjectId.SchemaType.castForQuery (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schematype.js:1613:15)
+        at cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\cast.js:297:34)
+        at model.Query.Query.cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:4790:12)
+        at model.Query.Query._castConditions (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:2177:10)
+        at model.Query._findOne (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:2465:8)
+        at model.Query.exec (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:4321:28),
+    valueType: 'Object',
+    model: Model { ProductCollection }
+  },
+  timestamp: '2023-04-01T12:08:39.367Z',
+  label: 'e-Commerce Backend Debuger'
+}
+{
+  level: 'error',
+  message: 'Error on Query',
+  error: CastError: Cast to ObjectId failed for value "{ id: '6407c6ca560671c828e11ed1' }" (type Object) at path "_id" for model "ProductCollection"
+      at ObjectId.cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schema\objectid.js:248:11)
+      at ObjectId.SchemaType.applySetters (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schematype.js:1202:12)
+      at ObjectId.SchemaType.castForQuery (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schematype.js:1613:15)
+      at cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\cast.js:297:34)
+      at model.Query.Query.cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:4790:12)
+      at model.Query.Query._castConditions (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:2177:10)
+      at model.Query._findOne (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:2465:8)
+      at model.Query.exec (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:4321:28)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async Object.showProduct (file:///C:/Users/aabadin/Documents/code/tercera%20entrega%20desafio%20final/src/services/ProductsDao.js:54:73) {
+    stringValue: `"{ id: '6407c6ca560671c828e11ed1' }"`,
+    messageFormat: undefined,
+    kind: 'ObjectId',
+    value: { id: '6407c6ca560671c828e11ed1' },
+    path: '_id',
+    reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+        at new ObjectId (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\node_modules\bson\lib\bson.cjs:2014:23)
+        at castObjectId (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\cast\objectid.js:25:12)
+        at ObjectId.cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schema\objectid.js:246:12)
+        at ObjectId.SchemaType.applySetters (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schematype.js:1202:12)
+        at ObjectId.SchemaType.castForQuery (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\schematype.js:1613:15)
+        at cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\cast.js:297:34)
+        at model.Query.Query.cast (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:4790:12)
+        at model.Query.Query._castConditions (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:2177:10)
+        at model.Query._findOne (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:2465:8)
+        at model.Query.exec (C:\Users\aabadin\Documents\code\tercera entrega desafio final\node_modules\mongoose\lib\query.js:4321:28),
+    valueType: 'Object',
+    model: Model { ProductCollection }
+  },
+  timestamp: '2023-04-01T12:16:19.700Z',
+  label: 'e-Commerce Backend Debuger'
+}

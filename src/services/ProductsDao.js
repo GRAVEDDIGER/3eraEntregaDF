@@ -19,7 +19,7 @@ export async function ProductsDao(){
             logger.info.info({level:"info",message:"Connected to Mongoose"})
             dbModel=mongoose.model("ProductCollection",ProductsSchema)
             const addProduct =async (product)=>{
-                console.log(product.price)
+                console.log(product)
                         try{ 
                             const data = new dbModel(product)
                             data.save()
@@ -50,9 +50,9 @@ export async function ProductsDao(){
                     }}
                     const showProduct =async (id)=>{
                         try{ 
-                        const response = new DataResponseClass(200,true,await dbModel.findById(id),null,"Data Queried") 
+                        const data=await dbModel.findById(id)
+                        const response = new DataResponseClass(200,true,data,null,"Data Queried")                         
                         logger.info.info({level:"info",response})
-                    
                         return response
                         }catch(error){logger.error.error({level:"error",message:"Error on Query",error})
                         return new DataResponseClass(400,false,null,error,"Error on Query")

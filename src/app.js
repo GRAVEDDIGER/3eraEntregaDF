@@ -19,13 +19,13 @@ const schema=buildSchema(`
         price:Int
         rate:Int
         description:String
-        id:String
+        _id:String
     }
     type Query{
         products:[Product]
         productById(id: String):Product
     }
-    type Mutation{
+    type Mutation {
         addProduct(name:String,price:Int,rate:Int,description:String):Product
     }        
 `)
@@ -35,14 +35,20 @@ const root={
         if (response.ok) return JSON.parse(response.response)
         },
     productById:async (id)=>{
-        const response = await DAO.showProduct(id)
-        console.log(response.response)
-        return response.response
+        console.log(id)
+        return DAO.showProduct(id.id).then(res=>{console.log(res)
+            console.log(res.response)
+        return res.response
+        }).catch(e=>console.log(e))
+    
     },
-    addProduct:async(name,price,rate,description)=>{
-       return await  DAO.addProduct({name,price,rate,description})
-    } 
-}
+    addProduct:async(data)=>{
+       console.log(data)
+        return await DAO.addProduct(data).then(res=>{console.log(res)
+        console.log(data)
+        return res.response.data
+        }).catch(e=>console.log(e))
+}}
 
 app.use("/gql",graphqlHTTP({
     schema,
