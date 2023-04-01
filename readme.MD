@@ -1,17 +1,18 @@
-* Coderhouse Feat GraphQL and Testing 
+#Coderhouse Feat GraphQL and Testing#
+
 To run de development enviroment you can use npm start
 Testing enviroment needs to start after the server is listening any other way you can rerun the tests by presing h and following a
   ´´´bash
   npm start 
   npm run test
    ´´´
-  * GraphqQL Route
+#GraphqQL Route
 
 http://localhost:8080/gql
   
-** GraphQL Shemas **
+##GraphQL Schemas
   
-  ´´´javascript 
+  '''javascript 
   export const schema=buildSchema(`
     type Product{
         name: String
@@ -30,7 +31,7 @@ http://localhost:8080/gql
         deleteProduct(id: String):Product
     }        
 `)
-´´´
+'''
 
 
 
