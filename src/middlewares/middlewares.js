@@ -9,6 +9,7 @@ import morgan from "morgan"
 import {morganWinston} from "../helper/CustomMorgan.js"
 import {handleConfig} from "../configurations/handlebarsConfig.js"
 import passport from "passport"
+import "../routes/graphql.js"
 import mongoose,{Schema} from "mongoose"
 const passportConfigBuilder=pkg.default
 console.log(passportConfigBuilder)
