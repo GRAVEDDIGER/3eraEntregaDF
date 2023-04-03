@@ -93,3 +93,525 @@
   label: 'Logged by passport-fast-config',
   timestamp: '2023-03-21T06:50:08.938Z'
 }
+{
+  level: 'error',
+  title: 'Object parsed dont Validate mongoose schema',
+  message: 'localCollection validation failed: password: Path `password` is required.',
+  error: Error: localCollection validation failed: password: Path `password` is required.
+      at ValidationError.inspect (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/error/validation.js:50:26)
+      at formatValue (node:internal/util/inspect:806:19)
+      at formatProperty (node:internal/util/inspect:1920:11)
+      at formatRaw (node:internal/util/inspect:1055:9)
+      at formatValue (node:internal/util/inspect:841:10)
+      at inspect (node:internal/util/inspect:365:10)
+      at Format.transform (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/logform/pretty-print.js:27:19)
+      at Format.transform (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/logform/combine.js:20:24)
+      at DerivedLogger._transform (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/winston/lib/winston/logger.js:313:29)
+      at Transform._read (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:165:10) {
+    errors: {
+      password: ValidatorError: Path `password` is required.
+          at validate (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/schematype.js:1346:13)
+          at SchemaType.doValidate (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/schematype.js:1330:7)
+          at /run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/document.js:2905:18
+          at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+        properties: {
+          validator: [Function (anonymous)],
+          message: 'Path `password` is required.',
+          type: 'required',
+          path: 'password',
+          value: undefined
+        },
+        kind: 'required',
+        path: 'password',
+        value: undefined,
+        reason: undefined,
+        [Symbol(mongoose:validatorError)]: true
+      }
+    },
+    _message: 'localCollection validation failed'
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-04-01T20:55:19.841Z'
+}
+{
+  level: 'error',
+  title: 'Object parsed dont Validate mongoose schema',
+  message: 'localCollection validation failed: password: Path `password` is required.',
+  error: Error: localCollection validation failed: password: Path `password` is required.
+      at ValidationError.inspect (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/error/validation.js:50:26)
+      at formatValue (node:internal/util/inspect:806:19)
+      at formatProperty (node:internal/util/inspect:1920:11)
+      at formatRaw (node:internal/util/inspect:1055:9)
+      at formatValue (node:internal/util/inspect:841:10)
+      at inspect (node:internal/util/inspect:365:10)
+      at Format.transform (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/logform/pretty-print.js:27:19)
+      at Format.transform (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/logform/combine.js:20:24)
+      at DerivedLogger._transform (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/winston/lib/winston/logger.js:313:29)
+      at Transform._read (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:165:10) {
+    errors: {
+      password: ValidatorError: Path `password` is required.
+          at validate (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/schematype.js:1346:13)
+          at SchemaType.doValidate (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/schematype.js:1330:7)
+          at /run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/document.js:2905:18
+          at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+        properties: {
+          validator: [Function (anonymous)],
+          message: 'Path `password` is required.',
+          type: 'required',
+          path: 'password',
+          value: undefined
+        },
+        kind: 'required',
+        path: 'password',
+        value: undefined,
+        reason: undefined,
+        [Symbol(mongoose:validatorError)]: true
+      }
+    },
+    _message: 'localCollection validation failed'
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-04-01T21:17:06.973Z'
+}
+{
+  level: 'error',
+  title: 'Object parsed dont Validate mongoose schema',
+  message: 'localCollection validation failed: password: Path `password` is required.',
+  error: Error: localCollection validation failed: password: Path `password` is required.
+      at ValidationError.inspect (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/error/validation.js:50:26)
+      at formatValue (node:internal/util/inspect:806:19)
+      at formatProperty (node:internal/util/inspect:1920:11)
+      at formatRaw (node:internal/util/inspect:1055:9)
+      at formatValue (node:internal/util/inspect:841:10)
+      at inspect (node:internal/util/inspect:365:10)
+      at Format.transform (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/logform/pretty-print.js:27:19)
+      at Format.transform (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/logform/combine.js:20:24)
+      at DerivedLogger._transform (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/winston/lib/winston/logger.js:313:29)
+      at Transform._read (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:165:10) {
+    errors: {
+      password: ValidatorError: Path `password` is required.
+          at validate (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/schematype.js:1346:13)
+          at SchemaType.doValidate (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/schematype.js:1330:7)
+          at /run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/document.js:2905:18
+          at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+        properties: {
+          validator: [Function (anonymous)],
+          message: 'Path `password` is required.',
+          type: 'required',
+          path: 'password',
+          value: undefined
+        },
+        kind: 'required',
+        path: 'password',
+        value: undefined,
+        reason: undefined,
+        [Symbol(mongoose:validatorError)]: true
+      }
+    },
+    _message: 'localCollection validation failed'
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-04-01T21:38:01.387Z'
+}
+{
+  level: 'error',
+  title: 'Object parsed dont Validate mongoose schema',
+  message: 'localCollection validation failed: password: Path `password` is required.',
+  error: Error: localCollection validation failed: password: Path `password` is required.
+      at ValidationError.inspect (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/error/validation.js:50:26)
+      at formatValue (node:internal/util/inspect:806:19)
+      at formatProperty (node:internal/util/inspect:1920:11)
+      at formatRaw (node:internal/util/inspect:1055:9)
+      at formatValue (node:internal/util/inspect:841:10)
+      at inspect (node:internal/util/inspect:365:10)
+      at Format.transform (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/logform/pretty-print.js:27:19)
+      at Format.transform (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/logform/combine.js:20:24)
+      at DerivedLogger._transform (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/winston/lib/winston/logger.js:313:29)
+      at Transform._read (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:165:10) {
+    errors: {
+      password: ValidatorError: Path `password` is required.
+          at validate (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/schematype.js:1346:13)
+          at SchemaType.doValidate (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/schematype.js:1330:7)
+          at /run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/document.js:2905:18
+          at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+        properties: {
+          validator: [Function (anonymous)],
+          message: 'Path `password` is required.',
+          type: 'required',
+          path: 'password',
+          value: undefined
+        },
+        kind: 'required',
+        path: 'password',
+        value: undefined,
+        reason: undefined,
+        [Symbol(mongoose:validatorError)]: true
+      }
+    },
+    _message: 'localCollection validation failed'
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-04-01T21:56:22.690Z'
+}
+{
+  level: 'error',
+  title: 'Object parsed dont Validate mongoose schema',
+  message: 'localCollection validation failed: password: Path `password` is required.',
+  error: Error: localCollection validation failed: password: Path `password` is required.
+      at ValidationError.inspect (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/error/validation.js:50:26)
+      at formatValue (node:internal/util/inspect:806:19)
+      at formatProperty (node:internal/util/inspect:1920:11)
+      at formatRaw (node:internal/util/inspect:1055:9)
+      at formatValue (node:internal/util/inspect:841:10)
+      at inspect (node:internal/util/inspect:365:10)
+      at Format.transform (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/logform/pretty-print.js:27:19)
+      at Format.transform (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/logform/combine.js:20:24)
+      at DerivedLogger._transform (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/winston/lib/winston/logger.js:313:29)
+      at Transform._read (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:165:10) {
+    errors: {
+      password: ValidatorError: Path `password` is required.
+          at validate (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/schematype.js:1346:13)
+          at SchemaType.doValidate (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/schematype.js:1330:7)
+          at /run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/document.js:2905:18
+          at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+        properties: {
+          validator: [Function (anonymous)],
+          message: 'Path `password` is required.',
+          type: 'required',
+          path: 'password',
+          value: undefined
+        },
+        kind: 'required',
+        path: 'password',
+        value: undefined,
+        reason: undefined,
+        [Symbol(mongoose:validatorError)]: true
+      }
+    },
+    _message: 'localCollection validation failed'
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-04-01T21:57:46.341Z'
+}
+{
+  level: 'error',
+  title: 'Object parsed dont Validate mongoose schema',
+  message: 'localCollection validation failed: password: Path `password` is required.',
+  error: Error: localCollection validation failed: password: Path `password` is required.
+      at ValidationError.inspect (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/error/validation.js:50:26)
+      at formatValue (node:internal/util/inspect:806:19)
+      at formatProperty (node:internal/util/inspect:1920:11)
+      at formatRaw (node:internal/util/inspect:1055:9)
+      at formatValue (node:internal/util/inspect:841:10)
+      at inspect (node:internal/util/inspect:365:10)
+      at Format.transform (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/logform/pretty-print.js:27:19)
+      at Format.transform (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/logform/combine.js:20:24)
+      at DerivedLogger._transform (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/winston/lib/winston/logger.js:313:29)
+      at Transform._read (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:165:10) {
+    errors: {
+      password: ValidatorError: Path `password` is required.
+          at validate (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/schematype.js:1346:13)
+          at SchemaType.doValidate (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/schematype.js:1330:7)
+          at /run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/document.js:2905:18
+          at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+        properties: {
+          validator: [Function (anonymous)],
+          message: 'Path `password` is required.',
+          type: 'required',
+          path: 'password',
+          value: undefined
+        },
+        kind: 'required',
+        path: 'password',
+        value: undefined,
+        reason: undefined,
+        [Symbol(mongoose:validatorError)]: true
+      }
+    },
+    _message: 'localCollection validation failed'
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-04-01T21:58:39.098Z'
+}
+{
+  level: 'error',
+  title: 'Object parsed dont Validate mongoose schema',
+  message: 'localCollection validation failed: password: Path `password` is required.',
+  error: Error: localCollection validation failed: password: Path `password` is required.
+      at ValidationError.inspect (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/error/validation.js:50:26)
+      at formatValue (node:internal/util/inspect:806:19)
+      at formatProperty (node:internal/util/inspect:1920:11)
+      at formatRaw (node:internal/util/inspect:1055:9)
+      at formatValue (node:internal/util/inspect:841:10)
+      at inspect (node:internal/util/inspect:365:10)
+      at Format.transform (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/logform/pretty-print.js:27:19)
+      at Format.transform (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/logform/combine.js:20:24)
+      at DerivedLogger._transform (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/winston/lib/winston/logger.js:313:29)
+      at Transform._read (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:165:10) {
+    errors: {
+      password: ValidatorError: Path `password` is required.
+          at validate (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/schematype.js:1346:13)
+          at SchemaType.doValidate (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/schematype.js:1330:7)
+          at /run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/document.js:2905:18
+          at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+        properties: {
+          validator: [Function (anonymous)],
+          message: 'Path `password` is required.',
+          type: 'required',
+          path: 'password',
+          value: undefined
+        },
+        kind: 'required',
+        path: 'password',
+        value: undefined,
+        reason: undefined,
+        [Symbol(mongoose:validatorError)]: true
+      }
+    },
+    _message: 'localCollection validation failed'
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-04-01T22:01:12.541Z'
+}
+{
+  level: 'error',
+  title: 'Object parsed dont Validate mongoose schema',
+  message: 'localCollection validation failed: password: Path `password` is required.',
+  error: Error: localCollection validation failed: password: Path `password` is required.
+      at ValidationError.inspect (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/error/validation.js:50:26)
+      at formatValue (node:internal/util/inspect:806:19)
+      at formatProperty (node:internal/util/inspect:1920:11)
+      at formatRaw (node:internal/util/inspect:1055:9)
+      at formatValue (node:internal/util/inspect:841:10)
+      at inspect (node:internal/util/inspect:365:10)
+      at Format.transform (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/logform/pretty-print.js:27:19)
+      at Format.transform (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/logform/combine.js:20:24)
+      at DerivedLogger._transform (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/winston/lib/winston/logger.js:313:29)
+      at Transform._read (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:165:10) {
+    errors: {
+      password: ValidatorError: Path `password` is required.
+          at validate (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/schematype.js:1346:13)
+          at SchemaType.doValidate (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/schematype.js:1330:7)
+          at /run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/document.js:2905:18
+          at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+        properties: {
+          validator: [Function (anonymous)],
+          message: 'Path `password` is required.',
+          type: 'required',
+          path: 'password',
+          value: undefined
+        },
+        kind: 'required',
+        path: 'password',
+        value: undefined,
+        reason: undefined,
+        [Symbol(mongoose:validatorError)]: true
+      }
+    },
+    _message: 'localCollection validation failed'
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-04-01T22:03:57.906Z'
+}
+{
+  level: 'error',
+  title: 'Object parsed dont Validate mongoose schema',
+  message: 'localCollection validation failed: password: Path `password` is required.',
+  error: Error: localCollection validation failed: password: Path `password` is required.
+      at ValidationError.inspect (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/error/validation.js:50:26)
+      at formatValue (node:internal/util/inspect:806:19)
+      at formatProperty (node:internal/util/inspect:1920:11)
+      at formatRaw (node:internal/util/inspect:1055:9)
+      at formatValue (node:internal/util/inspect:841:10)
+      at inspect (node:internal/util/inspect:365:10)
+      at Format.transform (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/logform/pretty-print.js:27:19)
+      at Format.transform (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/logform/combine.js:20:24)
+      at DerivedLogger._transform (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/winston/lib/winston/logger.js:313:29)
+      at Transform._read (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:165:10) {
+    errors: {
+      password: ValidatorError: Path `password` is required.
+          at validate (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/schematype.js:1346:13)
+          at SchemaType.doValidate (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/schematype.js:1330:7)
+          at /run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/document.js:2905:18
+          at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+        properties: {
+          validator: [Function (anonymous)],
+          message: 'Path `password` is required.',
+          type: 'required',
+          path: 'password',
+          value: undefined
+        },
+        kind: 'required',
+        path: 'password',
+        value: undefined,
+        reason: undefined,
+        [Symbol(mongoose:validatorError)]: true
+      }
+    },
+    _message: 'localCollection validation failed'
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-04-01T22:05:01.827Z'
+}
+{
+  level: 'error',
+  title: 'Object parsed dont Validate mongoose schema',
+  message: 'localCollection validation failed: password: Path `password` is required.',
+  error: Error: localCollection validation failed: password: Path `password` is required.
+      at ValidationError.inspect (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/error/validation.js:50:26)
+      at formatValue (node:internal/util/inspect:806:19)
+      at formatProperty (node:internal/util/inspect:1920:11)
+      at formatRaw (node:internal/util/inspect:1055:9)
+      at formatValue (node:internal/util/inspect:841:10)
+      at inspect (node:internal/util/inspect:365:10)
+      at Format.transform (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/logform/pretty-print.js:27:19)
+      at Format.transform (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/logform/combine.js:20:24)
+      at DerivedLogger._transform (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/winston/lib/winston/logger.js:313:29)
+      at Transform._read (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:165:10) {
+    errors: {
+      password: ValidatorError: Path `password` is required.
+          at validate (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/schematype.js:1346:13)
+          at SchemaType.doValidate (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/schematype.js:1330:7)
+          at /run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/node_modules/mongoose/lib/document.js:2905:18
+          at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+        properties: {
+          validator: [Function (anonymous)],
+          message: 'Path `password` is required.',
+          type: 'required',
+          path: 'password',
+          value: undefined
+        },
+        kind: 'required',
+        path: 'password',
+        value: undefined,
+        reason: undefined,
+        [Symbol(mongoose:validatorError)]: true
+      }
+    },
+    _message: 'localCollection validation failed'
+  },
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-04-01T22:05:43.888Z'
+}
+{
+  level: 'error',
+  error: TypeError: Cannot read properties of undefined (reading 'model')
+      at /run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/services/selectorDAO.js:61:149
+      at Generator.next (<anonymous>)
+      at fulfilled (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/services/selectorDAO.js:5:58)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5),
+  message: 'Imposible to create instance',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-04-02T19:17:02.251Z'
+}
+{
+  level: 'error',
+  error: TypeError: Cannot read properties of undefined (reading 'model')
+      at /run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/services/selectorDAO.js:61:149
+      at Generator.next (<anonymous>)
+      at fulfilled (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/services/selectorDAO.js:5:58)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5),
+  message: 'Imposible to create instance',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-04-02T19:19:06.497Z'
+}
+{
+  level: 'error',
+  error: TypeError: Cannot read properties of undefined (reading 'model')
+      at /run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/services/selectorDAO.js:61:149
+      at Generator.next (<anonymous>)
+      at fulfilled (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/services/selectorDAO.js:5:58)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5),
+  message: 'Imposible to create instance',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-04-02T19:19:40.491Z'
+}
+{
+  level: 'error',
+  error: ReferenceError: Cannot access 'someInstance' before initialization
+      at /run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/services/selectorDAO.js:60:136
+      at Generator.next (<anonymous>)
+      at /run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/services/selectorDAO.js:8:71
+      at new Promise (<anonymous>)
+      at __awaiter (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/services/selectorDAO.js:4:12)
+      at DAOSelector (/run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/services/selectorDAO.js:23:12)
+      at /run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/index.js:30:58
+      at Generator.next (<anonymous>)
+      at /run/media/adrianabadin/code/3eraEntregaDF/node_modules/passport-fast-config/index.js:8:71
+      at new Promise (<anonymous>),
+  message: 'Imposible to create instance',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-04-02T19:21:17.255Z'
+}
+{
+  level: 'error',
+  title: 'TypeError',
+  message: 'cb is not a function',
+  error: undefined,
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-04-03T14:41:47.521Z'
+}
+{
+  level: 'error',
+  title: 'TypeError',
+  message: 'cb is not a function',
+  error: undefined,
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-04-03T14:41:47.736Z'
+}
+{
+  level: 'error',
+  title: 'TypeError',
+  message: 'cb is not a function',
+  error: undefined,
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-04-03T14:41:54.193Z'
+}
+{
+  level: 'error',
+  title: 'TypeError',
+  message: 'cb is not a function',
+  error: undefined,
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-04-03T14:41:54.338Z'
+}
+{
+  level: 'error',
+  title: 'TypeError',
+  message: 'cb is not a function',
+  error: undefined,
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-04-03T14:42:43.111Z'
+}
+{
+  level: 'error',
+  title: 'TypeError',
+  message: 'cb is not a function',
+  error: undefined,
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-04-03T14:42:43.349Z'
+}
+{
+  level: 'error',
+  title: 'TypeError',
+  message: 'cb is not a function',
+  error: undefined,
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-04-03T14:43:38.131Z'
+}
+{
+  level: 'error',
+  title: 'TypeError',
+  message: 'cb is not a function',
+  error: undefined,
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-04-03T14:43:38.194Z'
+}
+{
+  level: 'error',
+  title: 'TypeError',
+  message: 'cb is not a function',
+  error: undefined,
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-04-03T14:43:38.257Z'
+}

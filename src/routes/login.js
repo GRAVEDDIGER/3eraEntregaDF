@@ -21,9 +21,11 @@ router.get("/goa",passport.authenticate("google",{scope:[
     "https://www.googleapis.com/auth/user.birthday.read",
     "https://www.googleapis.com/auth/user.phonenumbers.read",
     "https://www.googleapis.com/auth/user.gender.read",
-    "https://www.googleapis.com/auth/user.addresses.read"
+    "https://www.googleapis.com/auth/user.addresses.read",
+    "https://www.googleapis.com/auth/user.organization.read",
+
 ]}))
 
-router.post("/",passport.authenticate("login",{successRedirect:"/home" ,failureRedirect:"/login/failed",failureFlash:true}))
+router.post("/",passport.authenticate("login",{successRedirect:"/viewProducts" ,failureRedirect:"/login/failed",failureFlash:true}))
 
 export default router
